@@ -116,13 +116,6 @@ if __name__ == "__main__":
     except Exception as e:
         print(e)
         sys.exit(1)
-
-    # Convert to gguf format
-    for checkpoint in os.listdir(output_dir):
-        if use_lora:
-            subprocess.run([sys.executable, "./llama.cpp/convert_lora_to_gguf.py", output_dir + "/" + checkpoint])
-        else: 
-            subprocess.run([sys.executable, "./llama.cpp/convert_hf_to_gguf.py", output_dir + "/" + checkpoint])
     
     # Write ablation params to config file
     os.makedirs(os.path.dirname(output_dir + "/" + "ablation_params.json"), exist_ok=True)
