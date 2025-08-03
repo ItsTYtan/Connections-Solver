@@ -1,49 +1,52 @@
 import json
+import os
 import random
 from datasets import Dataset
+from huggingface_hub import login
+from dotenv import load_dotenv
 
-def generate_train_test_split():
-    problems = []
-    solutions = []
+load_dotenv()
+login(os.getenv("HUGGINGFACE_TOKEN"))
 
-    # load archive
-    with open("NYT-Connections-Answers/connections.json", "r") as archive:
-        data = json.load(archive)
-        for puzzle in data:
-            answers = puzzle["answers"]
+problems = []
+solutions = []
 
-            words = []
-            test_answers = []
-            for answer in answers:
-                words.extend(answer["members"])
+# load archive
+with open("NYT-Connections-Answers/connections.json", "r") as archive:
+    data = json.load(archive)
+    for puzzle in data:
+        answers = puzzle["answers"]
 
-                del answer["level"]
-                test_answers.append(answer)
+        words = []
+        test_answers = []
+        for answer in answers:
+            words.extend(answer["members"])
 
-            # Shuffle words to make it random
-            random.seed(42)
-            random.shuffle(words)
+            del answer["level"]
+            test_answers.append(answer)
 
-            problems.append(json.dumps(words))
-            solutions.append(json.dumps(test_answers))
+        # Shuffle words to make it random
+        random.seed(42)
+        random.shuffle(words)
 
-    # format problem and solution to conversation style SFT post training format
-    unformatted_dataset = []
+        problems.append(json.dumps(words))
+        solutions.append(json.dumps(test_answers))
 
-    for problem, solution in list(zip(problems, solutions)):
-        unformatted_dataset.append(
-            {
-                "messages":
-                [
-                    {"role": "user", "content": problem},
-                    {"role": "assistant", "content": solution},
-                ]
-            }
-        )
+# format problem and solution to conversation style SFT post training format
+unformatted_dataset = []
 
-    dataset = Dataset.from_list(unformatted_dataset)
-    split_dataset = dataset.train_test_split(test_size=0.2)
-    train_ds = split_dataset['train']
-    test_ds = split_dataset['test']
+for problem, solution in list(zip(problems, solutions)):
+    unformatted_dataset.append(
+        {
+            "messages":
+            [
+                {"role": "user", "content": problem},
+                {"role": "assistant", "content": solution},
+            ]
+        }
+    )
 
-    return train_ds, test_ds
+dataset = Dataset.from_list(unformatted_dataset)
+split_dataset = dataset.train_test_split(test_size=0.2)
+
+split_dataset.push_to_hub("ItsTYtan/nytimes-connections")
