@@ -1,0 +1,55 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        e:
+            e69j5jgxbqqbjacery76a6dus27yrz2t:
+                codePath: trainer.py
+                codePathLocal: trainer.py
+                cpu_count: 6
+                cpu_count_logical: 12
+                cudaVersion: "12.6"
+                disk:
+                    /:
+                        total: "1081101176832"
+                        used: "183633715200"
+                email: tytan216@gmail.com
+                executable: /home/tytan216/Connections-Solver/venv/bin/python
+                git:
+                    commit: b6e193081224fd2530746a9624e987c0b5286c3e
+                    remote: https://github.com/ItsTYtan/Connections-Solver.git
+                gpu: NVIDIA GeForce RTX 3060
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      memoryTotal: "12884901888"
+                      name: NVIDIA GeForce RTX 3060
+                      uuid: GPU-1dec6751-3481-7a3b-53eb-6bbfdc03e1ea
+                host: DESKTOP-OOTB01R
+                memory:
+                    total: "8280784896"
+                os: Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.35
+                program: /home/tytan216/Connections-Solver/trainer.py
+                python: CPython 3.10.12
+                root: /home/tytan216/Connections-Solver
+                startedAt: "2025-08-03T08:28:07.987074Z"
+                writerId: e69j5jgxbqqbjacery76a6dus27yrz2t
+        m: []
+        python_version: 3.10.12
+        t:
+            "1":
+                - 49
+                - 51
+            "2":
+                - 1
+                - 11
+                - 49
+                - 51
+                - 71
+                - 84
+            "3":
+                - 13
+                - 15
+            "4": 3.10.12
+            "5": 0.21.0
+            "12": 0.21.0
+            "13": linux-x86_64

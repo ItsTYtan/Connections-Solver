@@ -1,0 +1,6 @@
+[submodule "NYT-Connections-Answers"]
+	path = NYT-Connections-Answers
+	url = https://github.com/Eyefyre/NYT-Connections-Answers.git
+[submodule "llama.cpp"]
+	path = llama.cpp
+	url = https://github.com/ggml-org/llama.cpp.git
