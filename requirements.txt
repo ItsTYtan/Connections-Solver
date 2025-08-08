@@ -5,3 +5,4 @@ wandb
 dotenv
 peft
 huggingface_hub
+vllm

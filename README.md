@@ -1,5 +1,5 @@
 # Connections-Solver
-An attempt to finetune a small model to solve connections with performance equal to SOTA models.
+An attempt to use ml techniques to solve connections with performance equal to SOTA LLM models.
 
 run init.sh to get started
 
