@@ -1,0 +1,5216 @@
+[
+  {
+    "guesses": [
+      [
+        "STRAND",
+        "MAROON",
+        "FUDGE",
+        "PEPPERS",
+        "CHERRY"
+      ],
+      [
+        "DARN",
+        "DITCH",
+        "CURSES",
+        "SHOOT"
+      ],
+      [
+        "RATS",
+        "FUZZY",
+        "NUTS",
+        "SPRINKLES"
+      ],
+      [
+        "SEASHELLS",
+        "WOODCHUCK",
+        "DESERT"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "SUNDAE TOPPINGS",
+        "members": [
+          "CHERRY",
+          "FUDGE",
+          "NUTS",
+          "SPRINKLES"
+        ]
+      },
+      {
+        "group": "LEAVE HIGH AND DRY",
+        "members": [
+          "DESERT",
+          "DITCH",
+          "MAROON",
+          "STRAND"
+        ]
+      },
+      {
+        "group": "\u201cPHOOEY!\u201d",
+        "members": [
+          "CURSES",
+          "DARN",
+          "RATS",
+          "SHOOT"
+        ]
+      },
+      {
+        "group": "WORDS IN TONGUE TWISTERS",
+        "members": [
+          "FUZZY",
+          "PEPPERS",
+          "SEASHELLS",
+          "WOODCHUCK"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SEGMENT",
+        "RAY",
+        "AGENT",
+        "CODE",
+        "LINE"
+      ],
+      [
+        "FIRE",
+        "SANTA",
+        "JUICE",
+        "ENERGY",
+        "SAUCE"
+      ],
+      [
+        "POINT",
+        "BOO",
+        "DEAR",
+        "BABY",
+        "LOVE"
+      ],
+      [
+        "ZIP"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "DARLING",
+        "members": [
+          "BABY",
+          "BOO",
+          "DEAR",
+          "LOVE"
+        ]
+      },
+      {
+        "group": "BASIC GEOMETRIC OBJECTS",
+        "members": [
+          "LINE",
+          "POINT",
+          "RAY",
+          "SEGMENT"
+        ]
+      },
+      {
+        "group": "OOMPH",
+        "members": [
+          "ENERGY",
+          "FIRE",
+          "JUICE",
+          "ZIP"
+        ]
+      },
+      {
+        "group": "SECRET ___",
+        "members": [
+          "AGENT",
+          "CODE",
+          "SANTA",
+          "SAUCE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "PRESENT",
+        "FLAIR",
+        "HOST",
+        "MODERATE",
+        "FACULTY",
+        "GIFT"
+      ],
+      [
+        "MUMMY",
+        "BURRITO",
+        "PAPYRUS",
+        "PARCHMENT",
+        "CLAY",
+        "WAX"
+      ],
+      [
+        "INSTINCT",
+        "TALENT"
+      ],
+      [
+        "SPRAIN",
+        "ANCHOR"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "ANCIENT WRITING SURFACES",
+        "members": [
+          "CLAY",
+          "PAPYRUS",
+          "PARCHMENT",
+          "WAX"
+        ]
+      },
+      {
+        "group": "LEAD, AS A TV PROGRAM",
+        "members": [
+          "ANCHOR",
+          "HOST",
+          "MODERATE",
+          "PRESENT"
+        ]
+      },
+      {
+        "group": "NATURAL ABILITY",
+        "members": [
+          "FACULTY",
+          "FLAIR",
+          "INSTINCT",
+          "TALENT"
+        ]
+      },
+      {
+        "group": "WRAPPED THINGS",
+        "members": [
+          "BURRITO",
+          "GIFT",
+          "MUMMY",
+          "SPRAIN"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "LOUNGE",
+        "FOOD COURT",
+        "FRISBEE",
+        "CANDELABRA",
+        "STRUM"
+      ],
+      [
+        "PICK",
+        "GATE",
+        "BEAST",
+        "BEND",
+        "RECORD"
+      ],
+      [
+        "CLOCK",
+        "PANCAKE",
+        "TEACUP"
+      ],
+      [
+        "SLIDE",
+        "CAROUSEL",
+        "COASTER"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "ROUND FLAT THINGS",
+        "members": [
+          "COASTER",
+          "FRISBEE",
+          "PANCAKE",
+          "RECORD"
+        ]
+      },
+      {
+        "group": "AIRPORT FEATURES",
+        "members": [
+          "CAROUSEL",
+          "FOOD COURT",
+          "GATE",
+          "LOUNGE"
+        ]
+      },
+      {
+        "group": "GUITAR PLAYING TECHNIQUES",
+        "members": [
+          "BEND",
+          "PICK",
+          "SLIDE",
+          "STRUM"
+        ]
+      },
+      {
+        "group": "WHAT CHARACTERS WERE TRANSFORMED INTO IN \u201cBEAUTY AND THE BEAST\u201d",
+        "members": [
+          "BEAST",
+          "CANDELABRA",
+          "CLOCK",
+          "TEACUP"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "TEAPOT",
+        "FOUNTAIN",
+        "BOWL",
+        "COLISEUM",
+        "SOLFEGE",
+        "ARENA",
+        "DOME"
+      ],
+      [
+        "LANE",
+        "DRIVE",
+        "GUTTER",
+        "ALLEY"
+      ],
+      [
+        "JUSTICE",
+        "COURT",
+        "LIBRA"
+      ],
+      [
+        "FISH",
+        "WHALE"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "STADIUMS",
+        "members": [
+          "ARENA",
+          "BOWL",
+          "COLISEUM",
+          "DOME"
+        ]
+      },
+      {
+        "group": "STREET SUFFIXES",
+        "members": [
+          "ALLEY",
+          "COURT",
+          "DRIVE",
+          "LANE"
+        ]
+      },
+      {
+        "group": "ASSOCIATED WITH SCALES",
+        "members": [
+          "FISH",
+          "JUSTICE",
+          "LIBRA",
+          "SOLFEGE"
+        ]
+      },
+      {
+        "group": "THINGS WITH SPOUTS",
+        "members": [
+          "FOUNTAIN",
+          "GUTTER",
+          "TEAPOT",
+          "WHALE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SCHMALTZ",
+        "CORN",
+        "EGG",
+        "CLIMATE",
+        "CHEESE"
+      ],
+      [
+        "LOOSE",
+        "CHUMP",
+        "DUCT",
+        "PIPE",
+        "DRAIN"
+      ],
+      [
+        "KNUCKLES",
+        "SEA",
+        "SEWER"
+      ],
+      [
+        "SAP",
+        "SMILE",
+        "WINDOW"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "CONDUITS FOR WATER REMOVAL",
+        "members": [
+          "DRAIN",
+          "DUCT",
+          "PIPE",
+          "SEWER"
+        ]
+      },
+      {
+        "group": "FOOD PRODUCTS ASSOCIATED WITH SENTIMENTALITY",
+        "members": [
+          "CHEESE",
+          "CORN",
+          "SAP",
+          "SCHMALTZ"
+        ]
+      },
+      {
+        "group": "THINGS TO CRACK",
+        "members": [
+          "EGG",
+          "KNUCKLES",
+          "SMILE",
+          "WINDOW"
+        ]
+      },
+      {
+        "group": "___ CHANGE",
+        "members": [
+          "CHUMP",
+          "CLIMATE",
+          "LOOSE",
+          "SEA"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SCREEN",
+        "MENU",
+        "TOMORROW",
+        "CHANNEL",
+        "VOLUME"
+      ],
+      [
+        "SHIELD",
+        "SWORD",
+        "POWER",
+        "BLOCK"
+      ],
+      [
+        "OLIVE",
+        "COVER",
+        "CHERRY",
+        "UMBRELLA"
+      ],
+      [
+        "QUANTUM",
+        "CASINO",
+        "DIAMONDS"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "REMOTE CONTROL BUTTONS",
+        "members": [
+          "CHANNEL",
+          "MENU",
+          "POWER",
+          "VOLUME"
+        ]
+      },
+      {
+        "group": "HIDE FROM VIEW",
+        "members": [
+          "BLOCK",
+          "COVER",
+          "SCREEN",
+          "SHIELD"
+        ]
+      },
+      {
+        "group": "DRINK GARNISHES",
+        "members": [
+          "CHERRY",
+          "OLIVE",
+          "SWORD",
+          "UMBRELLA"
+        ]
+      },
+      {
+        "group": "FIRST WORD IN BOND MOVIE TITLES",
+        "members": [
+          "CASINO",
+          "DIAMONDS",
+          "QUANTUM",
+          "TOMORROW"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "PUREE",
+        "GRIND",
+        "PULSE",
+        "IVY",
+        "CHOP"
+      ],
+      [
+        "LITTLE",
+        "COUNTY",
+        "TOWN",
+        "CITY",
+        "VILLAGE"
+      ],
+      [
+        "EQUITY",
+        "INTEREST",
+        "CAPITAL",
+        "STOCK"
+      ],
+      [
+        "JUSTICE",
+        "PREMIER"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "MUNICIPALITIES",
+        "members": [
+          "CITY",
+          "COUNTY",
+          "TOWN",
+          "VILLAGE"
+        ]
+      },
+      {
+        "group": "BLENDER BUTTONS",
+        "members": [
+          "CHOP",
+          "GRIND",
+          "PULSE",
+          "PUREE"
+        ]
+      },
+      {
+        "group": "FINANCIAL TERMS",
+        "members": [
+          "CAPITAL",
+          "EQUITY",
+          "INTEREST",
+          "STOCK"
+        ]
+      },
+      {
+        "group": "___ LEAGUE",
+        "members": [
+          "IVY",
+          "JUSTICE",
+          "LITTLE",
+          "PREMIER"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "POWER",
+        "RADICAL",
+        "EXPONENT",
+        "GNARLY",
+        "THRONE"
+      ],
+      [
+        "OUNCE",
+        "BATH",
+        "POWDER",
+        "LICK"
+      ],
+      [
+        "SHRED",
+        "REST",
+        "ROOT",
+        "BENT"
+      ],
+      [
+        "TRACE",
+        "TWISTED",
+        "WARPED"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "CONTORTED",
+        "members": [
+          "BENT",
+          "GNARLY",
+          "TWISTED",
+          "WARPED"
+        ]
+      },
+      {
+        "group": "SMALLEST AMOUNT",
+        "members": [
+          "LICK",
+          "OUNCE",
+          "SHRED",
+          "TRACE"
+        ]
+      },
+      {
+        "group": "ALGEBRA TERMS",
+        "members": [
+          "EXPONENT",
+          "POWER",
+          "RADICAL",
+          "ROOT"
+        ]
+      },
+      {
+        "group": "WORDS BEFORE \u201cROOM\u201d TO MEAN LAVATORY",
+        "members": [
+          "BATH",
+          "POWDER",
+          "REST",
+          "THRONE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "VERY",
+        "REAL",
+        "QUITE",
+        "SUPER",
+        "AWFUL"
+      ],
+      [
+        "STERLING",
+        "COFFEE",
+        "WON",
+        "CUP"
+      ],
+      [
+        "CARROT",
+        "RAND",
+        "PINT",
+        "SPONGE"
+      ],
+      [
+        "POUND",
+        "GALLON",
+        "QUART"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "UNITS OF VOLUME",
+        "members": [
+          "CUP",
+          "GALLON",
+          "PINT",
+          "QUART"
+        ]
+      },
+      {
+        "group": "EXTREMELY",
+        "members": [
+          "AWFUL",
+          "QUITE",
+          "SUPER",
+          "VERY"
+        ]
+      },
+      {
+        "group": "WORLD CURRENCIES",
+        "members": [
+          "RAND",
+          "REAL",
+          "STERLING",
+          "WON"
+        ]
+      },
+      {
+        "group": "___ CAKE",
+        "members": [
+          "CARROT",
+          "COFFEE",
+          "POUND",
+          "SPONGE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "ROYAL",
+        "ICE CUBE",
+        "SEA",
+        "SIN",
+        "BOARDWALK"
+      ],
+      [
+        "POWDER",
+        "COMMON",
+        "BABY",
+        "Q-TIP",
+        "JAIL"
+      ],
+      [
+        "SISTER",
+        "CHANCE",
+        "GO",
+        "WONDER"
+      ],
+      [
+        "FUTURE",
+        "MIDNIGHT"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "MONOPOLY SQUARES",
+        "members": [
+          "BOARDWALK",
+          "CHANCE",
+          "GO",
+          "JAIL"
+        ]
+      },
+      {
+        "group": "SHADES OF BLUE",
+        "members": [
+          "BABY",
+          "MIDNIGHT",
+          "POWDER",
+          "ROYAL"
+        ]
+      },
+      {
+        "group": "RAPPERS",
+        "members": [
+          "COMMON",
+          "FUTURE",
+          "ICE CUBE",
+          "Q-TIP"
+        ]
+      },
+      {
+        "group": "MEMBERS OF A SEPTET",
+        "members": [
+          "SEA",
+          "SIN",
+          "SISTER",
+          "WONDER"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "RINK",
+        "FIELD",
+        "ANKLET",
+        "RING",
+        "PENDANT",
+        "COURT"
+      ],
+      [
+        "DELIGHT",
+        "BROOCH",
+        "PLEASE",
+        "PURGE",
+        "SCREAM"
+      ],
+      [
+        "CHARM",
+        "BANGLE",
+        "TICKLE"
+      ],
+      [
+        "DIAMOND",
+        "SAW"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "HORROR FRANCHISES",
+        "members": [
+          "PURGE",
+          "RING",
+          "SAW",
+          "SCREAM"
+        ]
+      },
+      {
+        "group": "SPORTS VENUES",
+        "members": [
+          "COURT",
+          "DIAMOND",
+          "FIELD",
+          "RINK"
+        ]
+      },
+      {
+        "group": "MAKE HAPPY",
+        "members": [
+          "CHARM",
+          "DELIGHT",
+          "PLEASE",
+          "TICKLE"
+        ]
+      },
+      {
+        "group": "JEWELRY",
+        "members": [
+          "ANKLET",
+          "BANGLE",
+          "BROOCH",
+          "PENDANT"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "CHORUS",
+        "AVOID",
+        "CEASE",
+        "DARLING",
+        "ABSTAIN",
+        "REFRAIN"
+      ],
+      [
+        "HEARTS",
+        "HOOK",
+        "BELL",
+        "BRIDGE"
+      ],
+      [
+        "HERO",
+        "HUBRIS",
+        "TRAGEDY"
+      ],
+      [
+        "SPOONS",
+        "SPEED",
+        "PAN"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "DESIST",
+        "members": [
+          "ABSTAIN",
+          "AVOID",
+          "CEASE",
+          "REFRAIN"
+        ]
+      },
+      {
+        "group": "CARD GAMES",
+        "members": [
+          "BRIDGE",
+          "HEARTS",
+          "SPEED",
+          "SPOONS"
+        ]
+      },
+      {
+        "group": "ELEMENTS OF GREEK DRAMA",
+        "members": [
+          "CHORUS",
+          "HERO",
+          "HUBRIS",
+          "TRAGEDY"
+        ]
+      },
+      {
+        "group": "SECOND WORDS OF \u201cPETER PAN\u201d CHARACTERS",
+        "members": [
+          "BELL",
+          "DARLING",
+          "HOOK",
+          "PAN"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "CROP",
+        "FADE",
+        "HAIR",
+        "SAFETY",
+        "SHAG"
+      ],
+      [
+        "PULL",
+        "SWAY",
+        "PUSH",
+        "CLOUT",
+        "SACK"
+      ],
+      [
+        "WEIGHT",
+        "RAID",
+        "LOOT"
+      ],
+      [
+        "BOBBY",
+        "BOB",
+        "ROB"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "PLUNDER",
+        "members": [
+          "LOOT",
+          "RAID",
+          "ROB",
+          "SACK"
+        ]
+      },
+      {
+        "group": "INFLUENCE",
+        "members": [
+          "CLOUT",
+          "PULL",
+          "SWAY",
+          "WEIGHT"
+        ]
+      },
+      {
+        "group": "HAIRSTYLES",
+        "members": [
+          "BOB",
+          "CROP",
+          "FADE",
+          "SHAG"
+        ]
+      },
+      {
+        "group": "___ PIN",
+        "members": [
+          "BOBBY",
+          "HAIR",
+          "PUSH",
+          "SAFETY"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "HOST",
+        "SCORE",
+        "LIGHT",
+        "EARN",
+        "WIN"
+      ],
+      [
+        "SEA",
+        "EXPANSIVE",
+        "LAND",
+        "DECK"
+      ],
+      [
+        "BOW",
+        "BRIDGE",
+        "ANCHOR",
+        "YANG"
+      ],
+      [
+        "FLOCK",
+        "MASCULINE",
+        "CROWD"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "ATTAIN",
+        "members": [
+          "EARN",
+          "LAND",
+          "SCORE",
+          "WIN"
+        ]
+      },
+      {
+        "group": "LARGE GROUP",
+        "members": [
+          "CROWD",
+          "FLOCK",
+          "HOST",
+          "SEA"
+        ]
+      },
+      {
+        "group": "PARTS OF A SHIP",
+        "members": [
+          "ANCHOR",
+          "BOW",
+          "BRIDGE",
+          "DECK"
+        ]
+      },
+      {
+        "group": "ASSOCIATED PRINCIPLES IN CHINESE PHILOSOPHY",
+        "members": [
+          "EXPANSIVE",
+          "LIGHT",
+          "MASCULINE",
+          "YANG"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "HARP",
+        "DIP",
+        "AURA",
+        "HALO",
+        "AIR",
+        "VIBE"
+      ],
+      [
+        "PIZZA",
+        "BERNIE",
+        "PARISH",
+        "ROMEO",
+        "BEER"
+      ],
+      [
+        "INSIST",
+        "DWELL",
+        "LINGER"
+      ],
+      [
+        "WINGS",
+        "RIGATONI"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "INTANGIBLE QUALITY",
+        "members": [
+          "AIR",
+          "AURA",
+          "HALO",
+          "VIBE"
+        ]
+      },
+      {
+        "group": "GAME DAY FARE",
+        "members": [
+          "BEER",
+          "DIP",
+          "PIZZA",
+          "WINGS"
+        ]
+      },
+      {
+        "group": "KEEP GOING ON ABOUT, WITH \u201cON\u201d",
+        "members": [
+          "DWELL",
+          "HARP",
+          "INSIST",
+          "LINGER"
+        ]
+      },
+      {
+        "group": "STARTING WITH EUROPEAN CAPITALS",
+        "members": [
+          "BERNIE",
+          "PARISH",
+          "RIGATONI",
+          "ROMEO"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SCORE",
+        "ENGINE",
+        "KATY PERRY",
+        "CROWD",
+        "LION"
+      ],
+      [
+        "SIMBA",
+        "MAMBA",
+        "MERINGUE",
+        "TANGY",
+        "BOA"
+      ],
+      [
+        "SCRAPE",
+        "SCRATCH",
+        "SCAR"
+      ],
+      [
+        "CORSET",
+        "GARTER",
+        "STOCKINGS"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "BURLESQUE WEAR",
+        "members": [
+          "BOA",
+          "CORSET",
+          "GARTER",
+          "STOCKINGS"
+        ]
+      },
+      {
+        "group": "MESS UP THE SURFACE OF",
+        "members": [
+          "SCAR",
+          "SCRAPE",
+          "SCRATCH",
+          "SCORE"
+        ]
+      },
+      {
+        "group": "THEY ROAR",
+        "members": [
+          "CROWD",
+          "ENGINE",
+          "KATY PERRY",
+          "LION"
+        ]
+      },
+      {
+        "group": "LATIN DANCES WITH A VOWEL CHANGED",
+        "members": [
+          "MAMBA",
+          "MERINGUE",
+          "SIMBA",
+          "TANGY"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "WORK",
+        "OFFICE",
+        "OPERATE",
+        "RUN",
+        "JOBS",
+        "FUNCTION"
+      ],
+      [
+        "MILK",
+        "BLONDE",
+        "ROSE",
+        "STRAWBERRY"
+      ],
+      [
+        "TEAMS",
+        "EDGE",
+        "VICE",
+        "DEVIL"
+      ],
+      [
+        "MARS",
+        "WINDOWS"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "THINGS THAT ARE RED",
+        "members": [
+          "DEVIL",
+          "MARS",
+          "ROSE",
+          "STRAWBERRY"
+        ]
+      },
+      {
+        "group": "BE IN COMMISSION",
+        "members": [
+          "FUNCTION",
+          "OPERATE",
+          "RUN",
+          "WORK"
+        ]
+      },
+      {
+        "group": "MICROSOFT PRODUCTS",
+        "members": [
+          "EDGE",
+          "OFFICE",
+          "TEAMS",
+          "WINDOWS"
+        ]
+      },
+      {
+        "group": "BIOPICS",
+        "members": [
+          "BLONDE",
+          "JOBS",
+          "MILK",
+          "VICE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "INFO",
+        "DROOP",
+        "BLOOPER",
+        "STOOP",
+        "GOOF"
+      ],
+      [
+        "DEMO",
+        "DOPE",
+        "LAD",
+        "HIGHLIGHT"
+      ],
+      [
+        "PORCH",
+        "SNOOP",
+        "DECK",
+        "YARD"
+      ],
+      [
+        "SCOOP",
+        "DISH",
+        "SIZZLE"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "GATHERING SPOT OUTSIDE A RESIDENCE",
+        "members": [
+          "DECK",
+          "PORCH",
+          "STOOP",
+          "YARD"
+        ]
+      },
+      {
+        "group": "LOWDOWN",
+        "members": [
+          "DISH",
+          "DOPE",
+          "INFO",
+          "SCOOP"
+        ]
+      },
+      {
+        "group": "KINDS OF REELS",
+        "members": [
+          "BLOOPER",
+          "DEMO",
+          "HIGHLIGHT",
+          "SIZZLE"
+        ]
+      },
+      {
+        "group": "CARTOON DOGS MINUS \u201cY\u201d",
+        "members": [
+          "DROOP",
+          "GOOF",
+          "LAD",
+          "SNOOP"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "TOMAHAWK",
+        "GEODUCK",
+        "BUGBEAR",
+        "HOBGOBLIN",
+        "PHANTOM"
+      ],
+      [
+        "ESCROW",
+        "INSURANCE",
+        "APPRAISAL",
+        "MORTGAGE"
+      ],
+      [
+        "TITMOUSE",
+        "SEAHORSE",
+        "WOMBAT",
+        "CHATEAUBRIAND"
+      ],
+      [
+        "FLATIRON",
+        "PORTERHOUSE",
+        "BOGEYMAN"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "DREAD-INDUCING FIGURES",
+        "members": [
+          "BOGEYMAN",
+          "BUGBEAR",
+          "HOBGOBLIN",
+          "PHANTOM"
+        ]
+      },
+      {
+        "group": "KINDS OF STEAKS",
+        "members": [
+          "CHATEAUBRIAND",
+          "FLATIRON",
+          "PORTERHOUSE",
+          "TOMAHAWK"
+        ]
+      },
+      {
+        "group": "RELATED TO BUYING A HOME",
+        "members": [
+          "APPRAISAL",
+          "ESCROW",
+          "INSURANCE",
+          "MORTGAGE"
+        ]
+      },
+      {
+        "group": "ANIMALS ENDING WITH ANIMALS",
+        "members": [
+          "GEODUCK",
+          "SEAHORSE",
+          "TITMOUSE",
+          "WOMBAT"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "ANSWER",
+        "LEMON",
+        "CRIMINAL",
+        "CAR",
+        "NATURAL",
+        "GREEN"
+      ],
+      [
+        "HANDLE",
+        "JAW",
+        "ADDRESS",
+        "SWINGER"
+      ],
+      [
+        "GOODFELLA",
+        "LAWN",
+        "PARK",
+        "YARD"
+      ],
+      [
+        "FIELD",
+        "HARVARD"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "GRASSY AREA",
+        "members": [
+          "GREEN",
+          "LAWN",
+          "PARK",
+          "YARD"
+        ]
+      },
+      {
+        "group": "DEAL WITH",
+        "members": [
+          "ADDRESS",
+          "ANSWER",
+          "FIELD",
+          "HANDLE"
+        ]
+      },
+      {
+        "group": "MOVIES WITH \u201cS\u201d REMOVED",
+        "members": [
+          "CAR",
+          "GOODFELLA",
+          "JAW",
+          "SWINGER"
+        ]
+      },
+      {
+        "group": "___ LAW",
+        "members": [
+          "CRIMINAL",
+          "HARVARD",
+          "LEMON",
+          "NATURAL"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "ROOTS",
+        "CROWN",
+        "SHIELD",
+        "BARK",
+        "WEDGE"
+      ],
+      [
+        "GARDEN",
+        "RINGS",
+        "CHEF",
+        "TORCH"
+      ],
+      [
+        "BUSINESS",
+        "COMICS",
+        "ARTS",
+        "SPORTS"
+      ],
+      [
+        "GREEK",
+        "EAGLE",
+        "MONTICELLO"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "NEWSPAPER SECTIONS",
+        "members": [
+          "ARTS",
+          "BUSINESS",
+          "COMICS",
+          "SPORTS"
+        ]
+      },
+      {
+        "group": "TREE FEATURES",
+        "members": [
+          "BARK",
+          "CROWN",
+          "RINGS",
+          "ROOTS"
+        ]
+      },
+      {
+        "group": "KINDS OF SALAD",
+        "members": [
+          "CHEF",
+          "GARDEN",
+          "GREEK",
+          "WEDGE"
+        ]
+      },
+      {
+        "group": "SEEN ON BACKS OF U.S. COINS",
+        "members": [
+          "EAGLE",
+          "MONTICELLO",
+          "SHIELD",
+          "TORCH"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SPIRIT",
+        "DRIFTER",
+        "ROGERS",
+        "OUTLAW",
+        "COWBOY",
+        "SHERIFF"
+      ],
+      [
+        "CLEVER",
+        "QUICK",
+        "SMART",
+        "BRIGHT",
+        "SHARP"
+      ],
+      [
+        "FRONTIER",
+        "SOUTHWEST",
+        "MARS",
+        "ALASKA"
+      ],
+      [
+        "LASSO"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "INTELLIGENT",
+        "members": [
+          "BRIGHT",
+          "CLEVER",
+          "QUICK",
+          "SHARP"
+        ]
+      },
+      {
+        "group": "AIRLINES",
+        "members": [
+          "ALASKA",
+          "FRONTIER",
+          "SOUTHWEST",
+          "SPIRIT"
+        ]
+      },
+      {
+        "group": "WESTERN TROPES",
+        "members": [
+          "COWBOY",
+          "DRIFTER",
+          "OUTLAW",
+          "SHERIFF"
+        ]
+      },
+      {
+        "group": "TV SHOW TITLE SURNAMES",
+        "members": [
+          "LASSO",
+          "MARS",
+          "ROGERS",
+          "SMART"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "EX",
+        "CURIOUS",
+        "GEE",
+        "BAD",
+        "JAY"
+      ],
+      [
+        "FLY",
+        "BEE",
+        "POLO",
+        "TANK"
+      ],
+      [
+        "FRESH",
+        "BY",
+        "CROP",
+        "TEE"
+      ],
+      [
+        "RAD",
+        "BOY",
+        "SAINT"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "SHIRTS",
+        "members": [
+          "CROP",
+          "POLO",
+          "TANK",
+          "TEE"
+        ]
+      },
+      {
+        "group": "COOL, IN \u201980S SLANG",
+        "members": [
+          "BAD",
+          "FLY",
+          "FRESH",
+          "RAD"
+        ]
+      },
+      {
+        "group": "LETTER SPELLINGS",
+        "members": [
+          "BEE",
+          "EX",
+          "GEE",
+          "JAY"
+        ]
+      },
+      {
+        "group": "___ GEORGE",
+        "members": [
+          "BOY",
+          "BY",
+          "CURIOUS",
+          "SAINT"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "LINK",
+        "TAB",
+        "JOKE",
+        "BUTTON",
+        "BOOKMARK",
+        "WINDOW"
+      ],
+      [
+        "POCKET",
+        "RELATION",
+        "BOND",
+        "MARTINI",
+        "TIE"
+      ],
+      [
+        "CUFF",
+        "LAUNDRY",
+        "HISTORY"
+      ],
+      [
+        "COLLAR",
+        "DOZEN"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "WEB BROWSER-RELATED",
+        "members": [
+          "BOOKMARK",
+          "HISTORY",
+          "TAB",
+          "WINDOW"
+        ]
+      },
+      {
+        "group": "SHIRT FEATURES",
+        "members": [
+          "BUTTON",
+          "COLLAR",
+          "CUFF",
+          "POCKET"
+        ]
+      },
+      {
+        "group": "CONNECTION",
+        "members": [
+          "BOND",
+          "LINK",
+          "RELATION",
+          "TIE"
+        ]
+      },
+      {
+        "group": "DIRTY ___",
+        "members": [
+          "DOZEN",
+          "JOKE",
+          "LAUNDRY",
+          "MARTINI"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "BRAID",
+        "PONY",
+        "BUN",
+        "COMB",
+        "SIFT"
+      ],
+      [
+        "PEAL",
+        "TABLE",
+        "BOOK",
+        "TREE"
+      ],
+      [
+        "ROLL",
+        "ROOT",
+        "SALAD",
+        "TWIST"
+      ],
+      [
+        "RUMBLE",
+        "DIG",
+        "CLAP"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "RUMMAGE",
+        "members": [
+          "COMB",
+          "DIG",
+          "ROOT",
+          "SIFT"
+        ]
+      },
+      {
+        "group": "SOUNDS OF THUNDER",
+        "members": [
+          "CLAP",
+          "PEAL",
+          "ROLL",
+          "RUMBLE"
+        ]
+      },
+      {
+        "group": "WAYS TO WEAR YOUR HAIR UP",
+        "members": [
+          "BUN",
+          "BRAID",
+          "PONY",
+          "TWIST"
+        ]
+      },
+      {
+        "group": "THINGS THAT CAN HAVE LEAVES",
+        "members": [
+          "BOOK",
+          "SALAD",
+          "TABLE",
+          "TREE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "RESIDENT",
+        "FELLOW",
+        "INTERN",
+        "ATTENDING",
+        "ROMAN"
+      ],
+      [
+        "EAR",
+        "COUNTRYMAN",
+        "POCKET",
+        "TOWN"
+      ],
+      [
+        "PERFECT",
+        "NEW",
+        "ORIGINAL",
+        "MINT"
+      ],
+      [
+        "TIMES",
+        "FRIEND",
+        "UNUSED"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "IN PRISTINE CONDITION",
+        "members": [
+          "MINT",
+          "NEW",
+          "ORIGINAL",
+          "UNUSED"
+        ]
+      },
+      {
+        "group": "MEDICAL ROLES",
+        "members": [
+          "ATTENDING",
+          "FELLOW",
+          "INTERN",
+          "RESIDENT"
+        ]
+      },
+      {
+        "group": "SINGULAR NOUN IN A FAMOUS \u201cJULIUS CAESAR\u201d LINE",
+        "members": [
+          "COUNTRYMAN",
+          "EAR",
+          "FRIEND",
+          "ROMAN"
+        ]
+      },
+      {
+        "group": "___ SQUARE",
+        "members": [
+          "PERFECT",
+          "POCKET",
+          "TIMES",
+          "TOWN"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SURPRISE",
+        "NATURE",
+        "NOVA",
+        "ANGERS",
+        "MASTERPIECE"
+      ],
+      [
+        "COCKTAIL",
+        "DINNER",
+        "CHAMPAGNE",
+        "REUNION",
+        "BIRTHDAY"
+      ],
+      [
+        "FRONTLINE",
+        "HYPER",
+        "OVER",
+        "SUPER"
+      ],
+      [
+        "NICE",
+        "EXTRA"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "PREFIX MEANING \u201cVERY\u201d",
+        "members": [
+          "EXTRA",
+          "HYPER",
+          "OVER",
+          "SUPER"
+        ]
+      },
+      {
+        "group": "KINDS OF PARTIES",
+        "members": [
+          "BIRTHDAY",
+          "COCKTAIL",
+          "DINNER",
+          "SURPRISE"
+        ]
+      },
+      {
+        "group": "PBS SHOWS",
+        "members": [
+          "FRONTLINE",
+          "NATURE",
+          "NOVA",
+          "MASTERPIECE"
+        ]
+      },
+      {
+        "group": "PLACES IN FRANCE",
+        "members": [
+          "ANGERS",
+          "CHAMPAGNE",
+          "NICE",
+          "REUNION"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SAVE",
+        "STASH",
+        "STICKS",
+        "BANK",
+        "STORE"
+      ],
+      [
+        "COAL",
+        "GIRL",
+        "SNOW",
+        "BUSINESS"
+      ],
+      [
+        "GUTS",
+        "NERVE",
+        "BONE",
+        "CARROT"
+      ],
+      [
+        "STONES",
+        "PAGES",
+        "GALL"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "RESERVE FOR LATER",
+        "members": [
+          "BANK",
+          "SAVE",
+          "STASH",
+          "STORE"
+        ]
+      },
+      {
+        "group": "BOLDNESS, FIGURATIVELY",
+        "members": [
+          "GALL",
+          "GUTS",
+          "NERVE",
+          "STONES"
+        ]
+      },
+      {
+        "group": "USED TO BUILD A SNOWMAN",
+        "members": [
+          "CARROT",
+          "COAL",
+          "SNOW",
+          "STICKS"
+        ]
+      },
+      {
+        "group": "FUNNY ___",
+        "members": [
+          "BONE",
+          "BUSINESS",
+          "GIRL",
+          "PAGES"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SURGE",
+        "SPIKE",
+        "WANE",
+        "OUTAGE"
+      ],
+      [
+        "BRIEF",
+        "DIGEST",
+        "ABSTRACT",
+        "OUTLINE"
+      ],
+      [
+        "SHORT",
+        "KNEEL",
+        "CURT",
+        "HAIRY"
+      ],
+      [
+        "BELIEVE",
+        "BUY",
+        "ACCEPT",
+        "SWALLOW"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "TRUST AS REAL",
+        "members": [
+          "ACCEPT",
+          "BELIEVE",
+          "BUY",
+          "SWALLOW"
+        ]
+      },
+      {
+        "group": "POWER ISSUES",
+        "members": [
+          "OUTAGE",
+          "SHORT",
+          "SPIKE",
+          "SURGE"
+        ]
+      },
+      {
+        "group": "SUMMARY",
+        "members": [
+          "ABSTRACT",
+          "BRIEF",
+          "DIGEST",
+          "OUTLINE"
+        ]
+      },
+      {
+        "group": "NAME HOMOPHONES",
+        "members": [
+          "CURT",
+          "HAIRY",
+          "KNEEL",
+          "WANE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "WATER",
+        "POT",
+        "FERTILIZE",
+        "JUICE",
+        "SODA"
+      ],
+      [
+        "PRUNE",
+        "BLOUSE",
+        "MILK",
+        "PUNCH"
+      ],
+      [
+        "SMITE",
+        "BOOKEND",
+        "PANT",
+        "STICK"
+      ],
+      [
+        "EARBUD",
+        "SKI",
+        "SOCK"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "BEVERAGES",
+        "members": [
+          "JUICE",
+          "MILK",
+          "PUNCH",
+          "SODA"
+        ]
+      },
+      {
+        "group": "CARE FOR A PLANT",
+        "members": [
+          "FERTILIZE",
+          "POT",
+          "PRUNE",
+          "WATER"
+        ]
+      },
+      {
+        "group": "ITEM SOLD IN PAIRS",
+        "members": [
+          "BOOKEND",
+          "EARBUD",
+          "SKI",
+          "SOCK"
+        ]
+      },
+      {
+        "group": "BUGS PLUS STARTING LETTER",
+        "members": [
+          "BLOUSE",
+          "PANT",
+          "SMITE",
+          "STICK"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "WOOD",
+        "IRON",
+        "WEDGE",
+        "BRAT"
+      ],
+      [
+        "FOG",
+        "FRANK",
+        "LINK",
+        "DRIVER"
+      ],
+      [
+        "OMEN",
+        "BIRDS",
+        "TRAIN",
+        "DOG"
+      ],
+      [
+        "SERIES",
+        "RING",
+        "CHAIN",
+        "STRING"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "ONE THING AFTER ANOTHER",
+        "members": [
+          "CHAIN",
+          "TRAIN",
+          "SERIES",
+          "STRING"
+        ]
+      },
+      {
+        "group": "KINDS OF GOLF CLUBS",
+        "members": [
+          "DRIVER",
+          "IRON",
+          "WEDGE",
+          "WOOD"
+        ]
+      },
+      {
+        "group": "HORROR MOVIES, WITH \u201cTHE\u201d",
+        "members": [
+          "BIRDS",
+          "FOG",
+          "OMEN",
+          "RING"
+        ]
+      },
+      {
+        "group": "WORDS FOR SAUSAGE",
+        "members": [
+          "BRAT",
+          "DOG",
+          "FRANK",
+          "LINK"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "FIFTH",
+        "FIRST",
+        "MADISON",
+        "BROADWAY",
+        "ELEVENTH"
+      ],
+      [
+        "PRINCIPAL",
+        "MAIN",
+        "AMATEUR",
+        "CHIEF"
+      ],
+      [
+        "JIFFY",
+        "RUSH",
+        "PARK",
+        "FLASH"
+      ],
+      [
+        "HAPPY",
+        "SECOND",
+        "WINK"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "BRIEF MOMENT",
+        "members": [
+          "FLASH",
+          "JIFFY",
+          "SECOND",
+          "WINK"
+        ]
+      },
+      {
+        "group": "PRIMARY",
+        "members": [
+          "CHIEF",
+          "FIRST",
+          "MAIN",
+          "PRINCIPAL"
+        ]
+      },
+      {
+        "group": "AVENUES IN N.Y.C.",
+        "members": [
+          "BROADWAY",
+          "FIFTH",
+          "MADISON",
+          "PARK"
+        ]
+      },
+      {
+        "group": "___ HOUR",
+        "members": [
+          "AMATEUR",
+          "ELEVENTH",
+          "HAPPY",
+          "RUSH"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "POLE",
+        "JAVELIN",
+        "SPACE",
+        "HAMMER",
+        "WEDGE"
+      ],
+      [
+        "KITTEN",
+        "STILETTO",
+        "CUBAN",
+        "JACK"
+      ],
+      [
+        "HURDLE",
+        "JEOPARDY",
+        "DATE",
+        "BLUE"
+      ],
+      [
+        "DUTCH",
+        "AMERICAN",
+        "SWISS"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "CHEESES, FAMILIARLY",
+        "members": [
+          "AMERICAN",
+          "BLUE",
+          "JACK",
+          "SWISS"
+        ]
+      },
+      {
+        "group": "TRACK AND FIELD EQUIPMENT",
+        "members": [
+          "HAMMER",
+          "HURDLE",
+          "JAVELIN",
+          "POLE"
+        ]
+      },
+      {
+        "group": "KINDS OF HEELS",
+        "members": [
+          "CUBAN",
+          "KITTEN",
+          "STILETTO",
+          "WEDGE"
+        ]
+      },
+      {
+        "group": "DOUBLE ___",
+        "members": [
+          "DATE",
+          "DUTCH",
+          "JEOPARDY",
+          "SPACE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "TETRA",
+        "ALLEY",
+        "TANG",
+        "LAP",
+        "SOLE"
+      ],
+      [
+        "SKATE",
+        "GNAT",
+        "MOTH",
+        "FLY",
+        "WASP"
+      ],
+      [
+        "SUBTRACT",
+        "DIVIDE",
+        "MULTIPLY"
+      ],
+      [
+        "COPY",
+        "COOL",
+        "ADD"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "WINGED INSECTS",
+        "members": [
+          "FLY",
+          "GNAT",
+          "MOTH",
+          "WASP"
+        ]
+      },
+      {
+        "group": "ARITHMETIC OPERATIONS",
+        "members": [
+          "ADD",
+          "DIVIDE",
+          "MULTIPLY",
+          "SUBTRACT"
+        ]
+      },
+      {
+        "group": "FISH",
+        "members": [
+          "TANG",
+          "TETRA",
+          "SKATE",
+          "SOLE"
+        ]
+      },
+      {
+        "group": "___ CAT",
+        "members": [
+          "ALLEY",
+          "COOL",
+          "COPY",
+          "LAP"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "JAM",
+        "GROOVE",
+        "BIND",
+        "PICKLE",
+        "BANGER"
+      ],
+      [
+        "ROAST",
+        "SCRAPE",
+        "SCONE",
+        "MASH",
+        "LOAF"
+      ],
+      [
+        "BOP",
+        "TRIFLE",
+        "LOUNGE"
+      ],
+      [
+        "HANG",
+        "SPOT",
+        "CHILL"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "RELAX",
+        "members": [
+          "CHILL",
+          "HANG",
+          "LOAF",
+          "LOUNGE"
+        ]
+      },
+      {
+        "group": "CATCHY SONG",
+        "members": [
+          "BANGER",
+          "BOP",
+          "GROOVE",
+          "JAM"
+        ]
+      },
+      {
+        "group": "BRITISH CUISINE",
+        "members": [
+          "MASH",
+          "ROAST",
+          "SCONE",
+          "TRIFLE"
+        ]
+      },
+      {
+        "group": "STICKY SITUATION",
+        "members": [
+          "BIND",
+          "PICKLE",
+          "SCRAPE",
+          "SPOT"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "PLANT",
+        "QUALITY",
+        "HOUSE",
+        "BIRTH",
+        "DEED"
+      ],
+      [
+        "WEDGE",
+        "STICK",
+        "CROSS",
+        "TOKEN"
+      ],
+      [
+        "HOTEL",
+        "CRUISE",
+        "REMOTE",
+        "LODGE"
+      ],
+      [
+        "COMPOUND",
+        "BLEND",
+        "HYBRID"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "COMPOSITE",
+        "members": [
+          "BLEND",
+          "COMPOUND",
+          "CROSS",
+          "HYBRID"
+        ]
+      },
+      {
+        "group": "EMBED",
+        "members": [
+          "LODGE",
+          "PLANT",
+          "STICK",
+          "WEDGE"
+        ]
+      },
+      {
+        "group": "ITEMS IN A MONOPOLY BOX",
+        "members": [
+          "DEED",
+          "HOTEL",
+          "HOUSE",
+          "TOKEN"
+        ]
+      },
+      {
+        "group": "___ CONTROL",
+        "members": [
+          "BIRTH",
+          "CRUISE",
+          "QUALITY",
+          "REMOTE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "TURN",
+        "FLOP",
+        "CHANCE",
+        "BUST",
+        "MISS"
+      ],
+      [
+        "CHARGE",
+        "SHOT",
+        "CREDIT",
+        "DUD",
+        "PRIME"
+      ],
+      [
+        "TIME",
+        "CARD",
+        "PLASTIC"
+      ],
+      [
+        "RAINFOREST",
+        "KINDLE",
+        "RIVER"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "CLUNKER",
+        "members": [
+          "BUST",
+          "DUD",
+          "FLOP",
+          "MISS"
+        ]
+      },
+      {
+        "group": "OPPORTUNITY",
+        "members": [
+          "CHANCE",
+          "SHOT",
+          "TIME",
+          "TURN"
+        ]
+      },
+      {
+        "group": "NON-CASH WAY TO PAY",
+        "members": [
+          "CARD",
+          "CHARGE",
+          "CREDIT",
+          "PLASTIC"
+        ]
+      },
+      {
+        "group": "AMAZON ___",
+        "members": [
+          "KINDLE",
+          "PRIME",
+          "RAINFOREST",
+          "RIVER"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SMACKER",
+        "BELLY",
+        "BUTTON",
+        "HOLE",
+        "BUCK"
+      ],
+      [
+        "MOREL",
+        "HEEL",
+        "STICKER",
+        "ARCH"
+      ],
+      [
+        "SINGLE",
+        "LUCK",
+        "BALL",
+        "SOLE"
+      ],
+      [
+        "CLAM",
+        "OYSTER",
+        "TRUMPET"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "PARTS OF A FOOT",
+        "members": [
+          "ARCH",
+          "BALL",
+          "HEEL",
+          "SOLE"
+        ]
+      },
+      {
+        "group": "ONE DOLLAR",
+        "members": [
+          "BUCK",
+          "CLAM",
+          "SINGLE",
+          "SMACKER"
+        ]
+      },
+      {
+        "group": "KINDS OF MUSHROOMS",
+        "members": [
+          "BUTTON",
+          "MOREL",
+          "OYSTER",
+          "TRUMPET"
+        ]
+      },
+      {
+        "group": "POT___",
+        "members": [
+          "BELLY",
+          "HOLE",
+          "LUCK",
+          "STICKER"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SEATING",
+        "CHAIRS",
+        "ROOM",
+        "CAPACITY",
+        "STANDING"
+      ],
+      [
+        "REGARD",
+        "DYNASTY",
+        "FACE",
+        "TONGUE",
+        "UPPER"
+      ],
+      [
+        "IMAGE",
+        "GIMMICK",
+        "ENGROSS"
+      ],
+      [
+        "SOLE",
+        "MILDEW",
+        "HEEL"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "PARTS OF A SHOE",
+        "members": [
+          "HEEL",
+          "SOLE",
+          "TONGUE",
+          "UPPER"
+        ]
+      },
+      {
+        "group": "ACCOMMODATION",
+        "members": [
+          "CAPACITY",
+          "CHAIRS",
+          "ROOM",
+          "SEATING"
+        ]
+      },
+      {
+        "group": "REPUTATION",
+        "members": [
+          "FACE",
+          "IMAGE",
+          "REGARD",
+          "STANDING"
+        ]
+      },
+      {
+        "group": "ENDING WITH SYNONYMS FOR \u201cYUCK\u201d",
+        "members": [
+          "DYNASTY",
+          "ENGROSS",
+          "GIMMICK",
+          "MILDEW"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "COMMON",
+        "JOINT",
+        "FEVER",
+        "COLLECTIVE",
+        "MUTUAL"
+      ],
+      [
+        "PENCIL",
+        "AMERICAN",
+        "CIGARETTE",
+        "TOE"
+      ],
+      [
+        "EMPTY",
+        "LUCID",
+        "TICKET",
+        "CLEAR"
+      ],
+      [
+        "FLUSH",
+        "DRAIN",
+        "PIPE"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "SHARED",
+        "members": [
+          "COLLECTIVE",
+          "COMMON",
+          "JOINT",
+          "MUTUAL"
+        ]
+      },
+      {
+        "group": "RID OF CONTENTS",
+        "members": [
+          "CLEAR",
+          "DRAIN",
+          "EMPTY",
+          "FLUSH"
+        ]
+      },
+      {
+        "group": "ASSOCIATED WITH \u201cSTUB\u201d",
+        "members": [
+          "CIGARETTE",
+          "PENCIL",
+          "TICKET",
+          "TOE"
+        ]
+      },
+      {
+        "group": "___ DREAM",
+        "members": [
+          "AMERICAN",
+          "FEVER",
+          "LUCID",
+          "PIPE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "GORILLA",
+        "APE",
+        "MANGO",
+        "PARROT"
+      ],
+      [
+        "MINT",
+        "BONOBO",
+        "GIBBON",
+        "BABOON"
+      ],
+      [
+        "MIRROR",
+        "TAMARIND",
+        "MIME",
+        "TOMATO"
+      ],
+      [
+        "LAMA",
+        "MONK",
+        "CARDINAL",
+        "PASTOR"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "RELIGIOUS FIGURES",
+        "members": [
+          "CARDINAL",
+          "LAMA",
+          "MONK",
+          "PASTOR"
+        ]
+      },
+      {
+        "group": "PRIMATES",
+        "members": [
+          "BABOON",
+          "BONOBO",
+          "GIBBON",
+          "GORILLA"
+        ]
+      },
+      {
+        "group": "CHUTNEY VARIETIES",
+        "members": [
+          "MANGO",
+          "MINT",
+          "TAMARIND",
+          "TOMATO"
+        ]
+      },
+      {
+        "group": "IMITATE",
+        "members": [
+          "APE",
+          "MIME",
+          "MIRROR",
+          "PARROT"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "GOATEE",
+        "CROCK",
+        "HOGWASH",
+        "BOWLINE",
+        "SHEEPSHANK",
+        "HORSEFEATHERS"
+      ],
+      [
+        "POLE",
+        "HAMMER",
+        "PITCHFORK",
+        "BATON"
+      ],
+      [
+        "HORNS",
+        "HITCH",
+        "TAIL",
+        "BUNK"
+      ],
+      [
+        "HURDLE",
+        "BEND"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "BALDERDASH",
+        "members": [
+          "BUNK",
+          "CROCK",
+          "HOGWASH",
+          "HORSEFEATHERS"
+        ]
+      },
+      {
+        "group": "TRACK AND FIELD EQUIPMENT",
+        "members": [
+          "BATON",
+          "HAMMER",
+          "HURDLE",
+          "POLE"
+        ]
+      },
+      {
+        "group": "PARTS OF A DEVIL COSTUME",
+        "members": [
+          "GOATEE",
+          "HORNS",
+          "PITCHFORK",
+          "TAIL"
+        ]
+      },
+      {
+        "group": "TYPES OF KNOTS",
+        "members": [
+          "BEND",
+          "BOWLINE",
+          "HITCH",
+          "SHEEPSHANK"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "STALK",
+        "FLORET",
+        "SPEAR",
+        "BLINDFOLD",
+        "ROBE",
+        "SWORD"
+      ],
+      [
+        "RESOLUTION",
+        "SCALES",
+        "SPEED",
+        "RAM",
+        "STORAGE"
+      ],
+      [
+        "CLOVE",
+        "BELLYACHE",
+        "GRUMBLE"
+      ],
+      [
+        "CARP",
+        "CRAB"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "COMPLAIN",
+        "members": [
+          "BELLYACHE",
+          "CARP",
+          "CRAB",
+          "GRUMBLE"
+        ]
+      },
+      {
+        "group": "VEGETABLE UNITS",
+        "members": [
+          "CLOVE",
+          "FLORET",
+          "SPEAR",
+          "STALK"
+        ]
+      },
+      {
+        "group": "LAPTOP SPECS",
+        "members": [
+          "RAM",
+          "RESOLUTION",
+          "SPEED",
+          "STORAGE"
+        ]
+      },
+      {
+        "group": "FEATURES OF JUSTICE PERSONIFIED",
+        "members": [
+          "BLINDFOLD",
+          "ROBE",
+          "SCALES",
+          "SWORD"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "GATOR",
+        "COMMANDO",
+        "ROGUE",
+        "BERET",
+        "WOLVERINE"
+      ],
+      [
+        "SNAPBACK",
+        "VOLUNTEER",
+        "COVER",
+        "SEAL"
+      ],
+      [
+        "PILLBOX",
+        "FIGURE",
+        "BANANAS",
+        "PLUG"
+      ],
+      [
+        "SOONER",
+        "DERBY",
+        "CAP"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "THINGS THAT PREVENT LEAKS",
+        "members": [
+          "CAP",
+          "COVER",
+          "PLUG",
+          "SEAL"
+        ]
+      },
+      {
+        "group": "KINDS OF HATS",
+        "members": [
+          "BERET",
+          "DERBY",
+          "PILLBOX",
+          "SNAPBACK"
+        ]
+      },
+      {
+        "group": "COLLEGE FOOTBALL TEAM MEMBERS",
+        "members": [
+          "GATOR",
+          "SOONER",
+          "VOLUNTEER",
+          "WOLVERINE"
+        ]
+      },
+      {
+        "group": "GO ___",
+        "members": [
+          "BANANAS",
+          "COMMANDO",
+          "FIGURE",
+          "ROGUE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SKY",
+        "SWIMMERS",
+        "CARS",
+        "ELEPHANTS",
+        "TREES"
+      ],
+      [
+        "NICKEL",
+        "SPARKS",
+        "COPPER",
+        "BRASS",
+        "NERVE"
+      ],
+      [
+        "SILVER",
+        "CHEEK",
+        "GALL",
+        "LIBERTY"
+      ],
+      [
+        "GOLD",
+        "MERCURY"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "SHAMELESS BOLDNESS",
+        "members": [
+          "BRASS",
+          "CHEEK",
+          "GALL",
+          "NERVE"
+        ]
+      },
+      {
+        "group": "METAL ELEMENTS",
+        "members": [
+          "COPPER",
+          "GOLD",
+          "NICKEL",
+          "SILVER"
+        ]
+      },
+      {
+        "group": "W.N.B.A. TEAMS",
+        "members": [
+          "MERCURY",
+          "SKY",
+          "SPARKS",
+          "LIBERTY"
+        ]
+      },
+      {
+        "group": "THINGS WITH TRUNKS",
+        "members": [
+          "CARS",
+          "ELEPHANTS",
+          "SWIMMERS",
+          "TREES"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "KISSES",
+        "LOVE",
+        "BOND",
+        "RUSH",
+        "CHASE"
+      ],
+      [
+        "YOURS",
+        "PARTY",
+        "MINE",
+        "ALWAYS"
+      ],
+      [
+        "CAMP",
+        "HUNT",
+        "QUEST",
+        "SEARCH"
+      ],
+      [
+        "SIDE",
+        "LEAF",
+        "WING"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "PURSUIT",
+        "members": [
+          "CHASE",
+          "HUNT",
+          "QUEST",
+          "SEARCH"
+        ]
+      },
+      {
+        "group": "ROMANTIC LETTER SIGN-OFFS",
+        "members": [
+          "ALWAYS",
+          "KISSES",
+          "LOVE",
+          "YOURS"
+        ]
+      },
+      {
+        "group": "GROUP WITHIN A GROUP",
+        "members": [
+          "CAMP",
+          "PARTY",
+          "SIDE",
+          "WING"
+        ]
+      },
+      {
+        "group": "GOLD ___",
+        "members": [
+          "BOND",
+          "LEAF",
+          "MINE",
+          "RUSH"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "KHAKI",
+        "RIM",
+        "SPOKE",
+        "HUB",
+        "TIRE"
+      ],
+      [
+        "MISS",
+        "BLOW",
+        "LOSE",
+        "WASTE"
+      ],
+      [
+        "HOSE",
+        "DUCT",
+        "CAMO",
+        "PIPE"
+      ],
+      [
+        "EXHAUST",
+        "DRAB",
+        "FATIGUE"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "PARTS OF A WHEEL",
+        "members": [
+          "HUB",
+          "RIM",
+          "SPOKE",
+          "TIRE"
+        ]
+      },
+      {
+        "group": "MILITARY CLOTHING DESCRIPTORS",
+        "members": [
+          "CAMO",
+          "DRAB",
+          "FATIGUE",
+          "KHAKI"
+        ]
+      },
+      {
+        "group": "USED IN VENTILATION",
+        "members": [
+          "DUCT",
+          "EXHAUST",
+          "HOSE",
+          "PIPE"
+        ]
+      },
+      {
+        "group": "FAIL TO TAKE ADVANTAGE OF, AS AN OPPORTUNITY",
+        "members": [
+          "BLOW",
+          "LOSE",
+          "MISS",
+          "WASTE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "WEDGE",
+        "FOUL",
+        "SLICE",
+        "OUCH",
+        "BURN"
+      ],
+      [
+        "TWIST",
+        "MUCK",
+        "SNAP",
+        "SCREW"
+      ],
+      [
+        "MITE",
+        "LOUSE",
+        "ZEST",
+        "ZING"
+      ],
+      [
+        "TAD",
+        "LITTLE",
+        "BIT"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "COMMENT AFTER AN INSULT",
+        "members": [
+          "BURN",
+          "OUCH",
+          "SNAP",
+          "ZING"
+        ]
+      },
+      {
+        "group": "TINY AMOUNT, WITH \u201cA\u201d",
+        "members": [
+          "BIT",
+          "LITTLE",
+          "MITE",
+          "TAD"
+        ]
+      },
+      {
+        "group": "BIT OF CITRUS GARNISH",
+        "members": [
+          "SLICE",
+          "TWIST",
+          "WEDGE",
+          "ZEST"
+        ]
+      },
+      {
+        "group": "BUNGLE, WITH \u201cUP\u201d",
+        "members": [
+          "FOUL",
+          "LOUSE",
+          "MUCK",
+          "SCREW"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SCORE",
+        "POINTS",
+        "BELL",
+        "FRISBEE",
+        "BALL"
+      ],
+      [
+        "HOST",
+        "LOAD",
+        "SINGER",
+        "WATT"
+      ],
+      [
+        "TICKET",
+        "DIESEL",
+        "DROVE",
+        "TOW"
+      ],
+      [
+        "BOOT",
+        "BONE",
+        "STICK"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "THINGS A DOG CAN FETCH",
+        "members": [
+          "BALL",
+          "BONE",
+          "FRISBEE",
+          "STICK"
+        ]
+      },
+      {
+        "group": "GREAT MANY",
+        "members": [
+          "DROVE",
+          "HOST",
+          "LOAD",
+          "SCORE"
+        ]
+      },
+      {
+        "group": "POSSIBLE RESULTS OF A TRAFFIC VIOLATION",
+        "members": [
+          "BOOT",
+          "POINTS",
+          "TICKET",
+          "TOW"
+        ]
+      },
+      {
+        "group": "INDUSTRIAL REVOLUTION INVENTORS",
+        "members": [
+          "BELL",
+          "DIESEL",
+          "SINGER",
+          "WATT"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "PANEL",
+        "CABINET",
+        "COUNCIL",
+        "CHANDELIER",
+        "FRIDGE"
+      ],
+      [
+        "CRUNCH",
+        "BOAT",
+        "DROP",
+        "PLANK",
+        "SINK"
+      ],
+      [
+        "HOOP",
+        "STUD",
+        "BOARD"
+      ],
+      [
+        "MOUNTAIN CLIMBER",
+        "RANGE",
+        "COUNTER"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "SEEN IN A KITCHEN",
+        "members": [
+          "COUNTER",
+          "FRIDGE",
+          "RANGE",
+          "SINK"
+        ]
+      },
+      {
+        "group": "GROUP OF ADVISORS",
+        "members": [
+          "BOARD",
+          "CABINET",
+          "COUNCIL",
+          "PANEL"
+        ]
+      },
+      {
+        "group": "CORE EXERCISES",
+        "members": [
+          "BOAT",
+          "CRUNCH",
+          "MOUNTAIN CLIMBER",
+          "PLANK"
+        ]
+      },
+      {
+        "group": "KINDS OF EARRINGS",
+        "members": [
+          "CHANDELIER",
+          "DROP",
+          "HOOP",
+          "STUD"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "BEAKER",
+        "MITT",
+        "ANIMAL",
+        "CHEF",
+        "DOG",
+        "BARTENDER"
+      ],
+      [
+        "TRUCK",
+        "CAR",
+        "MOTORCYCLE",
+        "DIGIT",
+        "BUS"
+      ],
+      [
+        "GONZO",
+        "PIGGY",
+        "SCOOTER"
+      ],
+      [
+        "HOST",
+        "SERVER"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "RESTAURANT WORKERS",
+        "members": [
+          "BARTENDER",
+          "CHEF",
+          "HOST",
+          "SERVER"
+        ]
+      },
+      {
+        "group": "MOTOR VEHICLES",
+        "members": [
+          "BUS",
+          "CAR",
+          "MOTORCYCLE",
+          "TRUCK"
+        ]
+      },
+      {
+        "group": "MUPPETS",
+        "members": [
+          "ANIMAL",
+          "BEAKER",
+          "GONZO",
+          "SCOOTER"
+        ]
+      },
+      {
+        "group": "HAND- AND FOOT-RELATED SLANG",
+        "members": [
+          "DIGIT",
+          "DOG",
+          "MITT",
+          "PIGGY"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "NEO",
+        "META",
+        "MNEMONIC",
+        "GNOME",
+        "PSYCHE"
+      ],
+      [
+        "KILO",
+        "DUMBO",
+        "HYPER",
+        "WICK"
+      ],
+      [
+        "BABE",
+        "SUCK",
+        "KNEE",
+        "TED"
+      ],
+      [
+        "BOLT",
+        "PULL",
+        "DRAW"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "ABSORB USING CAPILLARY ACTION",
+        "members": [
+          "DRAW",
+          "PULL",
+          "SUCK",
+          "WICK"
+        ]
+      },
+      {
+        "group": "GREEK PREFIXES",
+        "members": [
+          "HYPER",
+          "KILO",
+          "META",
+          "NEO"
+        ]
+      },
+      {
+        "group": "TITULAR TALKING ANIMALS OF FILM",
+        "members": [
+          "BABE",
+          "BOLT",
+          "DUMBO",
+          "TED"
+        ]
+      },
+      {
+        "group": "STARTING WITH SILENT LETTERS",
+        "members": [
+          "GNOME",
+          "KNEE",
+          "MNEMONIC",
+          "PSYCHE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "JOE",
+        "SAM",
+        "LUCKY",
+        "POP",
+        "TONY"
+      ],
+      [
+        "JAPAN",
+        "JAVA",
+        "EVIAN",
+        "DASANI"
+      ],
+      [
+        "MALTA",
+        "CUBA",
+        "FIJI",
+        "PALAU"
+      ],
+      [
+        "MUD",
+        "BREW",
+        "VOSS"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "BOTTLED WATER BRANDS",
+        "members": [
+          "DASANI",
+          "EVIAN",
+          "FIJI",
+          "VOSS"
+        ]
+      },
+      {
+        "group": "SLANG FOR COFFEE",
+        "members": [
+          "BREW",
+          "JAVA",
+          "JOE",
+          "MUD"
+        ]
+      },
+      {
+        "group": "ISLAND COUNTRIES",
+        "members": [
+          "CUBA",
+          "JAPAN",
+          "MALTA",
+          "PALAU"
+        ]
+      },
+      {
+        "group": "CEREAL MASCOTS",
+        "members": [
+          "LUCKY",
+          "POP",
+          "SAM",
+          "TONY"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "BATTERY",
+        "RADISH",
+        "FLY",
+        "DRIVE",
+        "DESIRE"
+      ],
+      [
+        "SHORTS",
+        "SUNGLASSES",
+        "SET",
+        "ARRAY",
+        "SHOE"
+      ],
+      [
+        "RESOLVE",
+        "POWER",
+        "SERIES",
+        "WILL"
+      ],
+      [
+        "TEE",
+        "HAT"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "INTRINSIC MOTIVATORS",
+        "members": [
+          "DESIRE",
+          "DRIVE",
+          "RESOLVE",
+          "WILL"
+        ]
+      },
+      {
+        "group": "SUMMER GEAR",
+        "members": [
+          "HAT",
+          "SHORTS",
+          "SUNGLASSES",
+          "TEE"
+        ]
+      },
+      {
+        "group": "COLLECTION",
+        "members": [
+          "ARRAY",
+          "BATTERY",
+          "SET",
+          "SERIES"
+        ]
+      },
+      {
+        "group": "HORSE___",
+        "members": [
+          "FLY",
+          "POWER",
+          "RADISH",
+          "SHOE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SPARE",
+        "GOLD",
+        "DOUBLE",
+        "CAT",
+        "TURKEY"
+      ],
+      [
+        "WIND",
+        "WEAVE",
+        "STRIKE",
+        "BLOW"
+      ],
+      [
+        "LEAVE",
+        "REST",
+        "BREAK",
+        "VACATION"
+      ],
+      [
+        "SNAKE",
+        "SWORD",
+        "CURVE"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "TIME OFF",
+        "members": [
+          "BREAK",
+          "LEAVE",
+          "REST",
+          "VACATION"
+        ]
+      },
+      {
+        "group": "FOLLOW A MEANDERING COURSE",
+        "members": [
+          "CURVE",
+          "SNAKE",
+          "WEAVE",
+          "WIND"
+        ]
+      },
+      {
+        "group": "BOWLING RESULTS",
+        "members": [
+          "DOUBLE",
+          "SPARE",
+          "STRIKE",
+          "TURKEY"
+        ]
+      },
+      {
+        "group": "___FISH",
+        "members": [
+          "BLOW",
+          "CAT",
+          "GOLD",
+          "SWORD"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "WHISTLE",
+        "CLAP",
+        "CHORUS",
+        "CHEER",
+        "REFRAIN"
+      ],
+      [
+        "ROOT",
+        "CLOUD",
+        "CONSOLE",
+        "APPLE"
+      ],
+      [
+        "HOOK",
+        "BOWLER",
+        "PIPE",
+        "BRIDGE"
+      ],
+      [
+        "COAT RACK",
+        "BENCH",
+        "RUNNER"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "PARTS OF A SONG",
+        "members": [
+          "BRIDGE",
+          "CHORUS",
+          "HOOK",
+          "REFRAIN"
+        ]
+      },
+      {
+        "group": "SUPPORT AUDIBLY",
+        "members": [
+          "CHEER",
+          "CLAP",
+          "ROOT",
+          "WHISTLE"
+        ]
+      },
+      {
+        "group": "THINGS IN AN ENTRYWAY",
+        "members": [
+          "BENCH",
+          "COAT RACK",
+          "CONSOLE",
+          "RUNNER"
+        ]
+      },
+      {
+        "group": "IMAGERY IN MAGRITTE PAINTINGS",
+        "members": [
+          "APPLE",
+          "BOWLER",
+          "CLOUD",
+          "PIPE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "DAMPEN",
+        "SOFTEN",
+        "HONEYCOMB",
+        "LIP",
+        "CUSHION"
+      ],
+      [
+        "TEMPER",
+        "HUMBLE",
+        "CHEEK",
+        "ATTITUDE"
+      ],
+      [
+        "CAMO",
+        "CUTIE",
+        "WHOOPIE",
+        "MOUTH"
+      ],
+      [
+        "CHECKERS",
+        "CHESS",
+        "STRIPES"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "SASSINESS",
+        "members": [
+          "ATTITUDE",
+          "CHEEK",
+          "LIP",
+          "MOUTH"
+        ]
+      },
+      {
+        "group": "MITIGATE",
+        "members": [
+          "CUSHION",
+          "DAMPEN",
+          "SOFTEN",
+          "TEMPER"
+        ]
+      },
+      {
+        "group": "PATTERNS",
+        "members": [
+          "CAMO",
+          "CHECKERS",
+          "HONEYCOMB",
+          "STRIPES"
+        ]
+      },
+      {
+        "group": "___ PIE",
+        "members": [
+          "CHESS",
+          "CUTIE",
+          "HUMBLE",
+          "WHOOPIE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SPICE",
+        "HEAT",
+        "BRUSH",
+        "MAGIC",
+        "GEL"
+      ],
+      [
+        "CAPE",
+        "CLIPPERS",
+        "BASEBALL",
+        "THUNDER"
+      ],
+      [
+        "KICK",
+        "SET",
+        "TAROT",
+        "FIRE"
+      ],
+      [
+        "CRASH",
+        "ROAR",
+        "BOOM"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "EXPLOSIVE SOUND",
+        "members": [
+          "BOOM",
+          "CRASH",
+          "ROAR",
+          "THUNDER"
+        ]
+      },
+      {
+        "group": "CHILI PEPPER QUALITY",
+        "members": [
+          "FIRE",
+          "HEAT",
+          "KICK",
+          "SPICE"
+        ]
+      },
+      {
+        "group": "CLASSIC BARBERSHOP SUPPLIES",
+        "members": [
+          "BRUSH",
+          "CAPE",
+          "CLIPPERS",
+          "GEL"
+        ]
+      },
+      {
+        "group": "KINDS OF CARDS",
+        "members": [
+          "BASEBALL",
+          "MAGIC",
+          "SET",
+          "TAROT"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "GOOSE",
+        "RIB",
+        "DOG",
+        "TURTLE",
+        "WING",
+        "TORSO"
+      ],
+      [
+        "SUPPORT",
+        "PROP",
+        "RELIEF",
+        "BREAK",
+        "BRACE"
+      ],
+      [
+        "BOTTLE",
+        "STATUE",
+        "BUST"
+      ],
+      [
+        "LINK",
+        "POST"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "KINDS OF CARVINGS",
+        "members": [
+          "BUST",
+          "RELIEF",
+          "STATUE",
+          "TORSO"
+        ]
+      },
+      {
+        "group": "PILLAR",
+        "members": [
+          "BRACE",
+          "POST",
+          "PROP",
+          "SUPPORT"
+        ]
+      },
+      {
+        "group": "BBQ OFFERING",
+        "members": [
+          "DOG",
+          "LINK",
+          "RIB",
+          "WING"
+        ]
+      },
+      {
+        "group": "___NECK",
+        "members": [
+          "BOTTLE",
+          "BREAK",
+          "GOOSE",
+          "TURTLE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "EBB",
+        "DWEEB",
+        "DROP",
+        "DWINDLE",
+        "SAP",
+        "DECLINE"
+      ],
+      [
+        "SIN",
+        "DWARF",
+        "SEA",
+        "TURKEY"
+      ],
+      [
+        "CLOWN",
+        "LIVE",
+        "STAY"
+      ],
+      [
+        "INHABIT",
+        "WONDER",
+        "DWELL"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "RESIDE",
+        "members": [
+          "DWELL",
+          "INHABIT",
+          "LIVE",
+          "STAY"
+        ]
+      },
+      {
+        "group": "DECREASE",
+        "members": [
+          "DECLINE",
+          "DROP",
+          "DWINDLE",
+          "EBB"
+        ]
+      },
+      {
+        "group": "DOOFUS",
+        "members": [
+          "CLOWN",
+          "DWEEB",
+          "SAP",
+          "TURKEY"
+        ]
+      },
+      {
+        "group": "MEMBER OF A SEPTET",
+        "members": [
+          "DWARF",
+          "SEA",
+          "SIN",
+          "WONDER"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "PICK",
+        "TRUNK",
+        "DIVISION",
+        "STAINED",
+        "BOW",
+        "BRANCH"
+      ],
+      [
+        "MEMORY",
+        "DRUMSTICK",
+        "MALLET",
+        "EAR"
+      ],
+      [
+        "LINCOLN",
+        "BISCUIT",
+        "CORN",
+        "TUSK"
+      ],
+      [
+        "LIMB",
+        "WING"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "SECTION",
+        "members": [
+          "BRANCH",
+          "DIVISION",
+          "LIMB",
+          "WING"
+        ]
+      },
+      {
+        "group": "ACCESSORIES FOR PLAYING AN INSTRUMENT",
+        "members": [
+          "BOW",
+          "DRUMSTICK",
+          "MALLET",
+          "PICK"
+        ]
+      },
+      {
+        "group": "DISTINCTIVE FEATURES OF AN ELEPHANT",
+        "members": [
+          "EAR",
+          "MEMORY",
+          "TRUNK",
+          "TUSK"
+        ]
+      },
+      {
+        "group": "WORDS MISSPELLED IN NU METAL BAND NAMES",
+        "members": [
+          "BISCUIT",
+          "CORN",
+          "LINCOLN",
+          "STAINED"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "END",
+        "SCRAP",
+        "SHRUB",
+        "TREE",
+        "DISSOLVE"
+      ],
+      [
+        "RODEO",
+        "HOURGLASS",
+        "HERB",
+        "VINE"
+      ],
+      [
+        "TAURUS",
+        "HOLLYWOOD",
+        "MICHAEL JORDAN",
+        "WALL STREET"
+      ],
+      [
+        "SUNSET",
+        "KUBRICK",
+        "NEUROPLASTIC"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "KINDS OF PLANTS",
+        "members": [
+          "HERB",
+          "SHRUB",
+          "TREE",
+          "VINE"
+        ]
+      },
+      {
+        "group": "DISCONTINUE",
+        "members": [
+          "DISSOLVE",
+          "END",
+          "SCRAP",
+          "SUNSET"
+        ]
+      },
+      {
+        "group": "ASSOCIATED WITH BULLS",
+        "members": [
+          "MICHAEL JORDAN",
+          "RODEO",
+          "TAURUS",
+          "WALL STREET"
+        ]
+      },
+      {
+        "group": "ENDING WITH BUILDING MATERIALS",
+        "members": [
+          "HOLLYWOOD",
+          "HOURGLASS",
+          "KUBRICK",
+          "NEUROPLASTIC"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "STORE",
+        "PARK",
+        "POOL",
+        "RESERVE",
+        "BANK"
+      ],
+      [
+        "GLOW",
+        "SIGNAL",
+        "BRAKE",
+        "INCH",
+        "TURN"
+      ],
+      [
+        "GUIDE",
+        "SCHOOL",
+        "COACH",
+        "TRAIN"
+      ],
+      [
+        "BOOK",
+        "EARTH"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "TEACH",
+        "members": [
+          "COACH",
+          "GUIDE",
+          "SCHOOL",
+          "TRAIN"
+        ]
+      },
+      {
+        "group": "CACHE",
+        "members": [
+          "BANK",
+          "POOL",
+          "RESERVE",
+          "STORE"
+        ]
+      },
+      {
+        "group": "DRIVING INSTRUCTOR DIRECTIVES",
+        "members": [
+          "BRAKE",
+          "PARK",
+          "SIGNAL",
+          "TURN"
+        ]
+      },
+      {
+        "group": "___WORM",
+        "members": [
+          "BOOK",
+          "EARTH",
+          "GLOW",
+          "INCH"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "MODEL",
+        "FIGURE",
+        "OCTOPUS",
+        "WHO",
+        "DOLL"
+      ],
+      [
+        "SALT",
+        "PEPPER",
+        "SAND",
+        "CRACK",
+        "BARB"
+      ],
+      [
+        "MINIATURE",
+        "NO",
+        "SLIGHT"
+      ],
+      [
+        "PLOW",
+        "DIG",
+        "SHOVEL"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "PUTDOWN",
+        "members": [
+          "BARB",
+          "CRACK",
+          "DIG",
+          "SLIGHT"
+        ]
+      },
+      {
+        "group": "SMALL LIKENESS",
+        "members": [
+          "DOLL",
+          "FIGURE",
+          "MINIATURE",
+          "MODEL"
+        ]
+      },
+      {
+        "group": "USED TO CLEAR SNOW",
+        "members": [
+          "PLOW",
+          "SALT",
+          "SAND",
+          "SHOVEL"
+        ]
+      },
+      {
+        "group": "DOCTORS IN POP CULTURE",
+        "members": [
+          "NO",
+          "OCTOPUS",
+          "PEPPER",
+          "WHO"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "STROKE",
+        "KICK",
+        "SWIMMING",
+        "DRIVER",
+        "TOM",
+        "WING"
+      ],
+      [
+        "SNARE",
+        "CYMBAL",
+        "DRUMSTICK",
+        "TICKER"
+      ],
+      [
+        "EAGLE",
+        "INFANT",
+        "BREAST"
+      ],
+      [
+        "HOLE",
+        "TENDER",
+        "PUB"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "PIECES OF CHICKEN",
+        "members": [
+          "BREAST",
+          "DRUMSTICK",
+          "TENDER",
+          "WING"
+        ]
+      },
+      {
+        "group": "GOLF TERMS",
+        "members": [
+          "DRIVER",
+          "EAGLE",
+          "HOLE",
+          "STROKE"
+        ]
+      },
+      {
+        "group": "DRUM SET COMPONENTS",
+        "members": [
+          "CYMBAL",
+          "KICK",
+          "SNARE",
+          "TOM"
+        ]
+      },
+      {
+        "group": "ASSOCIATED WITH \u201cCRAWL\u201d",
+        "members": [
+          "INFANT",
+          "PUB",
+          "SWIMMING",
+          "TICKER"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "PECK",
+        "FLEE",
+        "NAT",
+        "RED",
+        "WING"
+      ],
+      [
+        "AUNT",
+        "ANGEL",
+        "BRANCH",
+        "CHAPTER",
+        "ARM"
+      ],
+      [
+        "TON",
+        "CUB",
+        "STONE"
+      ],
+      [
+        "MET",
+        "BEATLE",
+        "BUSHEL"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "DIVISION",
+        "members": [
+          "ARM",
+          "BRANCH",
+          "CHAPTER",
+          "WING"
+        ]
+      },
+      {
+        "group": "IMPERIAL UNITS",
+        "members": [
+          "BUSHEL",
+          "PECK",
+          "STONE",
+          "TON"
+        ]
+      },
+      {
+        "group": "M.L.B. TEAM MEMBER",
+        "members": [
+          "ANGEL",
+          "CUB",
+          "MET",
+          "RED"
+        ]
+      },
+      {
+        "group": "INSECT HOMOPHONES",
+        "members": [
+          "AUNT",
+          "BEATLE",
+          "FLEE",
+          "NAT"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "BUSH",
+        "FEYNMAN",
+        "HAWKING",
+        "FACULTY",
+        "EINSTEIN",
+        "OPPENHEIMER"
+      ],
+      [
+        "GIFT",
+        "SELLING",
+        "BARBIE",
+        "MOOT"
+      ],
+      [
+        "GENIUS",
+        "CRIKEY",
+        "MATCH",
+        "MATE"
+      ],
+      [
+        "FLAIR",
+        "WEST"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "THEORETICAL PHYSICISTS",
+        "members": [
+          "EINSTEIN",
+          "FEYNMAN",
+          "HAWKING",
+          "OPPENHEIMER"
+        ]
+      },
+      {
+        "group": "TALENT",
+        "members": [
+          "FACULTY",
+          "FLAIR",
+          "GENIUS",
+          "GIFT"
+        ]
+      },
+      {
+        "group": "AUSTRALIAN TERMS",
+        "members": [
+          "BARBIE",
+          "BUSH",
+          "CRIKEY",
+          "MATE"
+        ]
+      },
+      {
+        "group": "___ POINT",
+        "members": [
+          "MATCH",
+          "MOOT",
+          "SELLING",
+          "WEST"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "TNT",
+        "BOULDER",
+        "COYOTE",
+        "CLAW"
+      ],
+      [
+        "CARGO",
+        "CALIFORNIA",
+        "DRUM",
+        "STIRRUP"
+      ],
+      [
+        "EGG",
+        "CAPRI",
+        "HOOF",
+        "HORN"
+      ],
+      [
+        "HAMMER",
+        "HONOR",
+        "ANVIL",
+        "NAIL"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "MADE OF KERATIN",
+        "members": [
+          "CLAW",
+          "HOOF",
+          "HORN",
+          "NAIL"
+        ]
+      },
+      {
+        "group": "ROAD RUNNER CARTOON STAPLES",
+        "members": [
+          "ANVIL",
+          "BOULDER",
+          "COYOTE",
+          "TNT"
+        ]
+      },
+      {
+        "group": "KINDS OF PANTS",
+        "members": [
+          "CAPRI",
+          "CARGO",
+          "HAMMER",
+          "STIRRUP"
+        ]
+      },
+      {
+        "group": "___ ROLL",
+        "members": [
+          "CALIFORNIA",
+          "DRUM",
+          "EGG",
+          "HONOR"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "LOSE",
+        "HEART",
+        "WEST",
+        "DRAW",
+        "WIN"
+      ],
+      [
+        "SHAKE",
+        "WATT",
+        "TUNGSTEN",
+        "HAM"
+      ],
+      [
+        "ESCAPE",
+        "SHOE",
+        "DODGE",
+        "AIRPLANE"
+      ],
+      [
+        "DO NOT DISTURB",
+        "RING",
+        "VIBRATE"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "CELLPHONE MODES",
+        "members": [
+          "AIRPLANE",
+          "DO NOT DISTURB",
+          "RING",
+          "VIBRATE"
+        ]
+      },
+      {
+        "group": "EVADE",
+        "members": [
+          "DODGE",
+          "ESCAPE",
+          "LOSE",
+          "SHAKE"
+        ]
+      },
+      {
+        "group": "WHAT \u201cW\u201d MIGHT STAND FOR",
+        "members": [
+          "TUNGSTEN",
+          "WATT",
+          "WEST",
+          "WIN"
+        ]
+      },
+      {
+        "group": "___STRING",
+        "members": [
+          "DRAW",
+          "HAM",
+          "HEART",
+          "SHOE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "ELBOW",
+        "FOREARM",
+        "BALANCE",
+        "HANDLE",
+        "SHOULDER"
+      ],
+      [
+        "COOKIE",
+        "ANCHOR",
+        "BEAR",
+        "SPINACH"
+      ],
+      [
+        "CHEAT",
+        "FITTED",
+        "ANGLE",
+        "ASSUME"
+      ],
+      [
+        "BEND",
+        "CROOK",
+        "PIPE"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "TAKE ON, AS A RESPONSIBILITY",
+        "members": [
+          "ASSUME",
+          "BEAR",
+          "HANDLE",
+          "SHOULDER"
+        ]
+      },
+      {
+        "group": "CORNERS",
+        "members": [
+          "ANGLE",
+          "BEND",
+          "CROOK",
+          "ELBOW"
+        ]
+      },
+      {
+        "group": "ASSOCIATED WITH POPEYE",
+        "members": [
+          "ANCHOR",
+          "FOREARM",
+          "PIPE",
+          "SPINACH"
+        ]
+      },
+      {
+        "group": "___ SHEET",
+        "members": [
+          "BALANCE",
+          "CHEAT",
+          "COOKIE",
+          "FITTED"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "HEAT",
+        "CHANCE",
+        "GAMBLE",
+        "BET",
+        "RISK"
+      ],
+      [
+        "JULIENNE",
+        "OCTOPUS",
+        "SHIVA",
+        "VENUS DE MILO",
+        "CUBE"
+      ],
+      [
+        "SLICE",
+        "SLOT MACHINE",
+        "TAXI DRIVER"
+      ],
+      [
+        "DICE",
+        "JOKER",
+        "CASINO"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "PUT ON THE LINE",
+        "members": [
+          "BET",
+          "CHANCE",
+          "GAMBLE",
+          "RISK"
+        ]
+      },
+      {
+        "group": "USE A KITCHEN KNIFE",
+        "members": [
+          "CUBE",
+          "DICE",
+          "JULIENNE",
+          "SLICE"
+        ]
+      },
+      {
+        "group": "ROBERT DE NIRO FILMS",
+        "members": [
+          "CASINO",
+          "HEAT",
+          "JOKER",
+          "TAXI DRIVER"
+        ]
+      },
+      {
+        "group": "DISTINCTIVE NUMBER OF ARMS (OR LACK THEREOF)",
+        "members": [
+          "OCTOPUS",
+          "SHIVA",
+          "SLOT MACHINE",
+          "VENUS DE MILO"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SHAPE",
+        "CURRENT",
+        "FORM",
+        "CONDITION",
+        "WAVE"
+      ],
+      [
+        "RINSE",
+        "CASCADE",
+        "SANITIZE",
+        "LATHER"
+      ],
+      [
+        "RAPID",
+        "STEW",
+        "QUICK",
+        "TIZZY"
+      ],
+      [
+        "HEALTH",
+        "NORMAL",
+        "SWEAT"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "FLUSTERED STATE",
+        "members": [
+          "LATHER",
+          "STEW",
+          "SWEAT",
+          "TIZZY"
+        ]
+      },
+      {
+        "group": "FITNESS",
+        "members": [
+          "CONDITION",
+          "FORM",
+          "HEALTH",
+          "SHAPE"
+        ]
+      },
+      {
+        "group": "FAST-MOVING WATER",
+        "members": [
+          "CASCADE",
+          "CURRENT",
+          "RAPID",
+          "WAVE"
+        ]
+      },
+      {
+        "group": "DISHWASHER CYCLES",
+        "members": [
+          "NORMAL",
+          "QUICK",
+          "RINSE",
+          "SANITIZE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "FLEXIBLE",
+        "NOT QUITE",
+        "EXCELLENT",
+        "EASY",
+        "ALMOST"
+      ],
+      [
+        "GAME",
+        "AREA",
+        "DRILL",
+        "ASSIGNMENT",
+        "LESSON"
+      ],
+      [
+        "WARM",
+        "CLOSE",
+        "ONE",
+        "OPEN"
+      ],
+      [
+        "EXERCISE",
+        "ATHLETIC"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "TASKS FOR A STUDENT",
+        "members": [
+          "ASSIGNMENT",
+          "DRILL",
+          "EXERCISE",
+          "LESSON"
+        ]
+      },
+      {
+        "group": "ENCOURAGING RESPONSES IN A GUESSING GAME",
+        "members": [
+          "ALMOST",
+          "CLOSE",
+          "NOT QUITE",
+          "WARM"
+        ]
+      },
+      {
+        "group": "UP FOR ANYTHING",
+        "members": [
+          "EASY",
+          "FLEXIBLE",
+          "GAME",
+          "OPEN"
+        ]
+      },
+      {
+        "group": "WHAT \u201cA\u201d MIGHT MEAN",
+        "members": [
+          "AREA",
+          "ATHLETIC",
+          "EXCELLENT",
+          "ONE"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "PAN",
+        "SACK",
+        "SCORE",
+        "ATTEMPT",
+        "BAG",
+        "COLOR"
+      ],
+      [
+        "SLAM",
+        "LAND",
+        "BLAST",
+        "SNAG",
+        "BLOWOUT"
+      ],
+      [
+        "RECEPTION",
+        "YARD",
+        "BASH"
+      ],
+      [
+        "CUT",
+        "TRIM"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "HAIR SALON OFFERINGS",
+        "members": [
+          "BLOWOUT",
+          "COLOR",
+          "CUT",
+          "TRIM"
+        ]
+      },
+      {
+        "group": "CRITICIZE",
+        "members": [
+          "BASH",
+          "BLAST",
+          "PAN",
+          "SLAM"
+        ]
+      },
+      {
+        "group": "OBTAIN",
+        "members": [
+          "BAG",
+          "LAND",
+          "SCORE",
+          "SNAG"
+        ]
+      },
+      {
+        "group": "MEASURED IN FOOTBALL STATS",
+        "members": [
+          "ATTEMPT",
+          "RECEPTION",
+          "SACK",
+          "YARD"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "SUB",
+        "HACK",
+        "BACKUP",
+        "FANTASY",
+        "ALTERNATE"
+      ],
+      [
+        "COVER",
+        "HERO",
+        "SOMEDAY",
+        "SUIT"
+      ],
+      [
+        "HONEY",
+        "COPPER",
+        "FREEZE",
+        "MELT"
+      ],
+      [
+        "SHRINK",
+        "CONDENSE",
+        "VAPORIZE"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "CHANGE STATES OF MATTER",
+        "members": [
+          "CONDENSE",
+          "FREEZE",
+          "MELT",
+          "VAPORIZE"
+        ]
+      },
+      {
+        "group": "REPLACEMENT",
+        "members": [
+          "ALTERNATE",
+          "BACKUP",
+          "COVER",
+          "SUB"
+        ]
+      },
+      {
+        "group": "SLANGY NAMES FOR PROFESSIONS",
+        "members": [
+          "COPPER",
+          "HACK",
+          "SHRINK",
+          "SUIT"
+        ]
+      },
+      {
+        "group": "MARIAH CAREY NUMBER ONE HITS",
+        "members": [
+          "FANTASY",
+          "HERO",
+          "HONEY",
+          "SOMEDAY"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "HAMSTER",
+        "CAMEL",
+        "KHAKI",
+        "COLOR",
+        "BEIGE",
+        "TAN"
+      ],
+      [
+        "SKIP",
+        "ROMP",
+        "MISS",
+        "CUT"
+      ],
+      [
+        "DITCH",
+        "ROUT",
+        "BLOWOUT",
+        "SWEEP"
+      ],
+      [
+        "CHEESE",
+        "PRAYER"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "YELLOW-BROWN SHADES",
+        "members": [
+          "BEIGE",
+          "CAMEL",
+          "KHAKI",
+          "TAN"
+        ]
+      },
+      {
+        "group": "FAIL TO ATTEND",
+        "members": [
+          "CUT",
+          "DITCH",
+          "MISS",
+          "SKIP"
+        ]
+      },
+      {
+        "group": "DECISIVE VICTORY",
+        "members": [
+          "BLOWOUT",
+          "ROMP",
+          "ROUT",
+          "SWEEP"
+        ]
+      },
+      {
+        "group": "___ WHEEL",
+        "members": [
+          "CHEESE",
+          "COLOR",
+          "HAMSTER",
+          "PRAYER"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "STEAM",
+        "NETTLE",
+        "GAS",
+        "BRAKES",
+        "FIST",
+        "IRON"
+      ],
+      [
+        "CHECK",
+        "FOLD",
+        "CALL",
+        "BUG",
+        "DEAL"
+      ],
+      [
+        "PROMOTION",
+        "SALE",
+        "RAISE"
+      ],
+      [
+        "RUFFLE",
+        "SPECIAL"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "DISCOUNT",
+        "members": [
+          "DEAL",
+          "PROMOTION",
+          "SALE",
+          "SPECIAL"
+        ]
+      },
+      {
+        "group": "IRRITATE",
+        "members": [
+          "BUG",
+          "NETTLE",
+          "RUFFLE",
+          "STEAM"
+        ]
+      },
+      {
+        "group": "POKER ACTIONS",
+        "members": [
+          "CALL",
+          "CHECK",
+          "FOLD",
+          "RAISE"
+        ]
+      },
+      {
+        "group": "THINGS YOU CAN PUMP",
+        "members": [
+          "BRAKES",
+          "FIST",
+          "GAS",
+          "IRON"
+        ]
+      }
+    ]
+  },
+  {
+    "guesses": [
+      [
+        "LIAR",
+        "GLEE",
+        "FESTIVITY",
+        "TAR",
+        "MIRTH"
+      ],
+      [
+        "FIRE",
+        "SNAKE",
+        "BARBECUE",
+        "FRYER"
+      ],
+      [
+        "CHOIR",
+        "ORCHESTRA",
+        "BAND",
+        "CHEER"
+      ],
+      [
+        "OFFICIANT",
+        "CATERER",
+        "FLORIST"
+      ]
+    ],
+    "solution": [
+      {
+        "group": "MERRIMENT",
+        "members": [
+          "CHEER",
+          "GLEE",
+          "FESTIVITY",
+          "MIRTH"
+        ]
+      },
+      {
+        "group": "BOOKED FOR A WEDDING",
+        "members": [
+          "BAND",
+          "CATERER",
+          "FLORIST",
+          "OFFICIANT"
+        ]
+      },
+      {
+        "group": "RHYMES",
+        "members": [
+          "CHOIR",
+          "FIRE",
+          "LIAR",
+          "FRYER"
+        ]
+      },
+      {
+        "group": "___ PIT",
+        "members": [
+          "BARBECUE",
+          "ORCHESTRA",
+          "SNAKE",
+          "TAR"
+        ]
+      }
+    ]
+  }
+]

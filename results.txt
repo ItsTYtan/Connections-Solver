@@ -1,0 +1,12 @@
+agglomerative.json avg correct guesses: 0.06329113924050633
+agglomerative.json score: 0.015822784810126583
+normalized_kmeans.json avg correct guesses: 0.11392405063291139
+normalized_kmeans.json score: 0.028481012658227847
+ilp.json avg correct guesses: 0.34177215189873417
+ilp.json score: 0.08544303797468354
+kmeans.json avg correct guesses: 0.11392405063291139
+kmeans.json score: 0.028481012658227847
+kmeansQwen3_8b_embedding.json avg correct guesses: 0.11392405063291139
+kmeansQwen3_8b_embedding.json score: 0.028481012658227847
+hdbscan.json avg correct guesses: 0.0
+hdbscan.json score: 0.0

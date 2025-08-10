@@ -6,3 +6,4 @@ dotenv
 peft
 huggingface_hub
 vllm
+ortools
