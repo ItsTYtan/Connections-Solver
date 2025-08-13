@@ -10,9 +10,13 @@ Tried ILP to contrain clusters to same size
 ILP performs better than kmeans, but nowhere near good results
 
 kmeans.json avg correct guesses: 0.11392405063291139
-kmeans.json score: 0.028481012658227847
 ilp.json avg correct guesses: 0.34177215189873417
-ilp.json score: 0.08544303797468354
 
 Embedding model: all-MiniLM-L6-v2
 Similarity heuristic: cosine similarity
+
+(13/08/25)
+With a better embedding model, ilp score is increased
+
+all-MiniLM-L6-v2  ilp.json avg correct guesses: 0.34177215189873417
+all-mpnet-base-v2 ilp.json avg correct guesses: 0.5569620253164557

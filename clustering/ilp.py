@@ -190,7 +190,7 @@ def main():
     puzzles = [entry["puzzle"] for entry in dataset]
     solutions = [entry["solution"] for entry in dataset]
 
-    embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+    embedding_model = SentenceTransformer("Qwen/Qwen3-Embedding-4B")
 
     results = []
     for puzzle, solution in tqdm(list(zip(puzzles, solutions)), desc="evaluating"):

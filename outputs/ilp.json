@@ -2,15 +2,15 @@
   {
     "guesses": [
       [
-        "DESERT",
         "NUTS",
+        "PEPPERS",
         "RATS",
-        "WOODCHUCK"
+        "SEASHELLS"
       ],
       [
+        "DESERT",
         "FUDGE",
         "FUZZY",
-        "SEASHELLS",
         "SPRINKLES"
       ],
       [
@@ -22,8 +22,8 @@
       [
         "CHERRY",
         "MAROON",
-        "PEPPERS",
-        "STRAND"
+        "STRAND",
+        "WOODCHUCK"
       ]
     ],
     "solution": [
@@ -69,9 +69,9 @@
     "guesses": [
       [
         "AGENT",
-        "DEAR",
-        "RAY",
-        "SANTA"
+        "CODE",
+        "SANTA",
+        "ZIP"
       ],
       [
         "ENERGY",
@@ -82,14 +82,14 @@
       [
         "BABY",
         "BOO",
-        "LOVE",
-        "POINT"
+        "DEAR",
+        "LOVE"
       ],
       [
-        "CODE",
         "LINE",
-        "SEGMENT",
-        "ZIP"
+        "POINT",
+        "RAY",
+        "SEGMENT"
       ]
     ],
     "solution": [
@@ -135,27 +135,27 @@
     "guesses": [
       [
         "BURRITO",
-        "FACULTY",
-        "MODERATE",
-        "MUMMY"
+        "CLAY",
+        "FLAIR",
+        "SPRAIN"
       ],
       [
         "ANCHOR",
-        "INSTINCT",
-        "SPRAIN",
-        "TALENT"
+        "FACULTY",
+        "HOST",
+        "MODERATE"
       ],
       [
-        "CLAY",
+        "MUMMY",
         "PAPYRUS",
         "PARCHMENT",
         "WAX"
       ],
       [
-        "FLAIR",
         "GIFT",
-        "HOST",
-        "PRESENT"
+        "INSTINCT",
+        "PRESENT",
+        "TALENT"
       ]
     ],
     "solution": [
@@ -200,28 +200,28 @@
   {
     "guesses": [
       [
-        "CAROUSEL",
-        "COASTER",
-        "PANCAKE",
-        "SLIDE"
-      ],
-      [
-        "BEND",
         "CANDELABRA",
         "CLOCK",
+        "PANCAKE",
         "TEACUP"
       ],
       [
         "BEAST",
-        "GATE",
         "PICK",
-        "RECORD"
+        "RECORD",
+        "STRUM"
       ],
       [
-        "FOOD COURT",
+        "CAROUSEL",
+        "COASTER",
         "FRISBEE",
-        "LOUNGE",
-        "STRUM"
+        "SLIDE"
+      ],
+      [
+        "BEND",
+        "FOOD COURT",
+        "GATE",
+        "LOUNGE"
       ]
     ],
     "solution": [
@@ -266,27 +266,27 @@
   {
     "guesses": [
       [
-        "FOUNTAIN",
-        "GUTTER",
-        "SOLFEGE",
-        "TEAPOT"
+        "COURT",
+        "DRIVE",
+        "JUSTICE",
+        "LIBRA"
       ],
       [
-        "DRIVE",
         "FISH",
-        "LIBRA",
+        "SOLFEGE",
+        "TEAPOT",
         "WHALE"
       ],
       [
         "ARENA",
-        "BOWL",
         "COLISEUM",
-        "DOME"
+        "DOME",
+        "FOUNTAIN"
       ],
       [
         "ALLEY",
-        "COURT",
-        "JUSTICE",
+        "BOWL",
+        "GUTTER",
         "LANE"
       ]
     ],
@@ -332,16 +332,16 @@
   {
     "guesses": [
       [
-        "LOOSE",
-        "SAP",
-        "SMILE",
-        "WINDOW"
-      ],
-      [
         "CHEESE",
         "CORN",
         "EGG",
-        "KNUCKLES"
+        "LOOSE"
+      ],
+      [
+        "CLIMATE",
+        "SAP",
+        "SEA",
+        "WINDOW"
       ],
       [
         "DRAIN",
@@ -351,9 +351,9 @@
       ],
       [
         "CHUMP",
-        "CLIMATE",
+        "KNUCKLES",
         "SCHMALTZ",
-        "SEA"
+        "SMILE"
       ]
     ],
     "solution": [
@@ -398,28 +398,28 @@
   {
     "guesses": [
       [
-        "MENU",
-        "POWER",
-        "SCREEN",
-        "VOLUME"
+        "CASINO",
+        "DIAMONDS",
+        "QUANTUM",
+        "SCREEN"
       ],
       [
         "CHERRY",
-        "DIAMONDS",
+        "MENU",
         "OLIVE",
-        "UMBRELLA"
-      ],
-      [
-        "CASINO",
-        "CHANNEL",
-        "QUANTUM",
         "TOMORROW"
       ],
       [
         "BLOCK",
+        "CHANNEL",
+        "POWER",
+        "VOLUME"
+      ],
+      [
         "COVER",
         "SHIELD",
-        "SWORD"
+        "SWORD",
+        "UMBRELLA"
       ]
     ],
     "solution": [
@@ -470,16 +470,16 @@
         "PREMIER"
       ],
       [
-        "CAPITAL",
-        "EQUITY",
-        "INTEREST",
-        "STOCK"
-      ],
-      [
         "CITY",
         "COUNTY",
         "TOWN",
         "VILLAGE"
+      ],
+      [
+        "CAPITAL",
+        "EQUITY",
+        "INTEREST",
+        "STOCK"
       ],
       [
         "CHOP",
@@ -530,16 +530,10 @@
   {
     "guesses": [
       [
-        "GNARLY",
+        "BATH",
         "REST",
         "SHRED",
         "THRONE"
-      ],
-      [
-        "BATH",
-        "LICK",
-        "OUNCE",
-        "POWDER"
       ],
       [
         "EXPONENT",
@@ -549,9 +543,15 @@
       ],
       [
         "BENT",
-        "TRACE",
+        "GNARLY",
         "TWISTED",
         "WARPED"
+      ],
+      [
+        "LICK",
+        "OUNCE",
+        "POWDER",
+        "TRACE"
       ]
     ],
     "solution": [
@@ -597,26 +597,26 @@
     "guesses": [
       [
         "CARROT",
-        "PINT",
-        "RAND",
+        "COFFEE",
+        "CUP",
         "SPONGE"
       ],
       [
-        "GALLON",
-        "POUND",
-        "QUART",
-        "STERLING"
+        "RAND",
+        "REAL",
+        "STERLING",
+        "WON"
       ],
       [
-        "COFFEE",
-        "CUP",
-        "SUPER",
-        "WON"
+        "GALLON",
+        "PINT",
+        "POUND",
+        "QUART"
       ],
       [
         "AWFUL",
         "QUITE",
-        "REAL",
+        "SUPER",
         "VERY"
       ]
     ],
@@ -662,28 +662,28 @@
   {
     "guesses": [
       [
+        "BOARDWALK",
+        "CHANCE",
+        "SEA",
+        "WONDER"
+      ],
+      [
         "BABY",
+        "COMMON",
+        "SIN",
+        "SISTER"
+      ],
+      [
         "FUTURE",
         "GO",
-        "SISTER"
+        "JAIL",
+        "MIDNIGHT"
       ],
       [
         "ICE CUBE",
         "POWDER",
         "Q-TIP",
-        "SIN"
-      ],
-      [
-        "BOARDWALK",
-        "JAIL",
-        "MIDNIGHT",
-        "SEA"
-      ],
-      [
-        "CHANCE",
-        "COMMON",
-        "ROYAL",
-        "WONDER"
+        "ROYAL"
       ]
     ],
     "solution": [
@@ -728,14 +728,14 @@
   {
     "guesses": [
       [
-        "CHARM",
+        "BROOCH",
         "DIAMOND",
         "PENDANT",
         "RING"
       ],
       [
         "BANGLE",
-        "BROOCH",
+        "CHARM",
         "DELIGHT",
         "TICKLE"
       ],
@@ -794,16 +794,16 @@
   {
     "guesses": [
       [
+        "BELL",
         "CHORUS",
         "DARLING",
-        "HERO",
-        "TRAGEDY"
+        "HOOK"
       ],
       [
-        "BELL",
         "BRIDGE",
         "HEARTS",
-        "HOOK"
+        "HERO",
+        "TRAGEDY"
       ],
       [
         "ABSTAIN",
@@ -860,27 +860,27 @@
   {
     "guesses": [
       [
-        "BOB",
-        "BOBBY",
-        "ROB",
-        "SACK"
-      ],
-      [
         "FADE",
         "PULL",
         "PUSH",
         "SWAY"
       ],
       [
-        "CLOUT",
-        "CROP",
-        "HAIR",
-        "SAFETY"
+        "BOB",
+        "BOBBY",
+        "ROB",
+        "SHAG"
       ],
       [
         "LOOT",
         "RAID",
-        "SHAG",
+        "SACK",
+        "SAFETY"
+      ],
+      [
+        "CLOUT",
+        "CROP",
+        "HAIR",
         "WEIGHT"
       ]
     ],
@@ -927,26 +927,26 @@
     "guesses": [
       [
         "ANCHOR",
+        "CROWD",
+        "FLOCK",
+        "HOST"
+      ],
+      [
         "BOW",
-        "HOST",
+        "BRIDGE",
+        "DECK",
         "YANG"
       ],
       [
-        "CROWD",
-        "EXPANSIVE",
-        "FLOCK",
-        "MASCULINE"
-      ],
-      [
         "EARN",
-        "LIGHT",
+        "MASCULINE",
         "SCORE",
         "WIN"
       ],
       [
-        "BRIDGE",
-        "DECK",
+        "EXPANSIVE",
         "LAND",
+        "LIGHT",
         "SEA"
       ]
     ],
@@ -994,14 +994,14 @@
       [
         "BERNIE",
         "PARISH",
-        "PIZZA",
+        "RIGATONI",
         "ROMEO"
       ],
       [
+        "DIP",
         "DWELL",
         "INSIST",
-        "LINGER",
-        "RIGATONI"
+        "LINGER"
       ],
       [
         "AURA",
@@ -1012,7 +1012,7 @@
       [
         "AIR",
         "BEER",
-        "DIP",
+        "PIZZA",
         "WINGS"
       ]
     ],
@@ -1058,28 +1058,28 @@
   {
     "guesses": [
       [
-        "MAMBA",
+        "CROWD",
+        "KATY PERRY",
         "MERINGUE",
-        "SIMBA",
         "TANGY"
       ],
       [
+        "BOA",
         "LION",
-        "SCAR",
-        "SCRAPE",
-        "SCRATCH"
+        "MAMBA",
+        "SIMBA"
       ],
       [
         "CORSET",
-        "ENGINE",
         "GARTER",
+        "SCAR",
         "STOCKINGS"
       ],
       [
-        "BOA",
-        "CROWD",
-        "KATY PERRY",
-        "SCORE"
+        "ENGINE",
+        "SCORE",
+        "SCRAPE",
+        "SCRATCH"
       ]
     ],
     "solution": [
@@ -1132,18 +1132,18 @@
       [
         "DEVIL",
         "EDGE",
-        "RUN",
+        "TEAMS",
         "VICE"
       ],
       [
-        "FUNCTION",
         "MARS",
-        "TEAMS",
+        "OFFICE",
+        "RUN",
         "WINDOWS"
       ],
       [
+        "FUNCTION",
         "JOBS",
-        "OFFICE",
         "OPERATE",
         "WORK"
       ]
@@ -1190,28 +1190,28 @@
   {
     "guesses": [
       [
-        "DECK",
+        "DROOP",
         "PORCH",
-        "SNOOP",
+        "STOOP",
         "YARD"
       ],
       [
         "BLOOPER",
-        "DISH",
-        "HIGHLIGHT",
-        "INFO"
-      ],
-      [
-        "DEMO",
         "DOPE",
         "GOOF",
         "LAD"
       ],
       [
-        "DROOP",
+        "DECK",
+        "DEMO",
+        "HIGHLIGHT",
+        "INFO"
+      ],
+      [
+        "DISH",
         "SCOOP",
         "SIZZLE",
-        "STOOP"
+        "SNOOP"
       ]
     ],
     "solution": [
@@ -1256,15 +1256,9 @@
   {
     "guesses": [
       [
-        "BUGBEAR",
-        "GEODUCK",
-        "HOBGOBLIN",
-        "PHANTOM"
-      ],
-      [
-        "BOGEYMAN",
         "CHATEAUBRIAND",
         "FLATIRON",
+        "GEODUCK",
         "PORTERHOUSE"
       ],
       [
@@ -1272,6 +1266,12 @@
         "ESCROW",
         "INSURANCE",
         "MORTGAGE"
+      ],
+      [
+        "BOGEYMAN",
+        "BUGBEAR",
+        "HOBGOBLIN",
+        "PHANTOM"
       ],
       [
         "SEAHORSE",
@@ -1322,28 +1322,28 @@
   {
     "guesses": [
       [
-        "CAR",
+        "FIELD",
         "LAWN",
         "PARK",
         "YARD"
       ],
       [
-        "ADDRESS",
-        "ANSWER",
-        "FIELD",
-        "HARVARD"
-      ],
-      [
-        "CRIMINAL",
         "GREEN",
+        "JAW",
         "LEMON",
         "NATURAL"
       ],
       [
+        "CAR",
+        "CRIMINAL",
         "GOODFELLA",
-        "HANDLE",
-        "JAW",
         "SWINGER"
+      ],
+      [
+        "ADDRESS",
+        "ANSWER",
+        "HANDLE",
+        "HARVARD"
       ]
     ],
     "solution": [
@@ -1388,26 +1388,26 @@
   {
     "guesses": [
       [
-        "BUSINESS",
+        "BARK",
+        "CHEF",
         "GREEK",
-        "MONTICELLO",
+        "TORCH"
+      ],
+      [
+        "ARTS",
+        "BUSINESS",
+        "COMICS",
         "SPORTS"
       ],
       [
-        "BARK",
+        "CROWN",
         "EAGLE",
         "SHIELD",
         "WEDGE"
       ],
       [
-        "ARTS",
-        "CHEF",
-        "COMICS",
-        "TORCH"
-      ],
-      [
-        "CROWN",
         "GARDEN",
+        "MONTICELLO",
         "RINGS",
         "ROOTS"
       ]
@@ -1454,10 +1454,10 @@
   {
     "guesses": [
       [
-        "COWBOY",
-        "OUTLAW",
-        "ROGERS",
-        "SHERIFF"
+        "CLEVER",
+        "QUICK",
+        "SHARP",
+        "SMART"
       ],
       [
         "ALASKA",
@@ -1466,15 +1466,15 @@
         "SOUTHWEST"
       ],
       [
-        "BRIGHT",
-        "CLEVER",
-        "QUICK",
-        "SMART"
+        "COWBOY",
+        "DRIFTER",
+        "OUTLAW",
+        "SHERIFF"
       ],
       [
-        "DRIFTER",
+        "BRIGHT",
         "LASSO",
-        "SHARP",
+        "ROGERS",
         "SPIRIT"
       ]
     ],
@@ -1520,28 +1520,28 @@
   {
     "guesses": [
       [
+        "BEE",
         "BOY",
+        "GEE",
+        "JAY"
+      ],
+      [
+        "BY",
+        "FLY",
+        "SAINT",
+        "TANK"
+      ],
+      [
+        "CROP",
+        "EX",
         "POLO",
-        "TANK",
         "TEE"
       ],
       [
         "BAD",
         "CURIOUS",
-        "EX",
-        "GEE"
-      ],
-      [
-        "BEE",
-        "CROP",
-        "FLY",
-        "JAY"
-      ],
-      [
-        "BY",
         "FRESH",
-        "RAD",
-        "SAINT"
+        "RAD"
       ]
     ],
     "solution": [
@@ -1586,28 +1586,28 @@
   {
     "guesses": [
       [
-        "COLLAR",
-        "CUFF",
-        "DOZEN",
-        "LAUNDRY"
-      ],
-      [
         "BOOKMARK",
         "BUTTON",
-        "TAB",
-        "WINDOW"
+        "DOZEN",
+        "LINK"
       ],
       [
         "HISTORY",
         "JOKE",
-        "LINK",
-        "RELATION"
+        "RELATION",
+        "TIE"
       ],
       [
         "BOND",
         "MARTINI",
-        "POCKET",
-        "TIE"
+        "TAB",
+        "WINDOW"
+      ],
+      [
+        "COLLAR",
+        "CUFF",
+        "LAUNDRY",
+        "POCKET"
       ]
     ],
     "solution": [
@@ -1652,16 +1652,10 @@
   {
     "guesses": [
       [
-        "BOOK",
-        "PEAL",
-        "TABLE",
-        "TREE"
-      ],
-      [
         "DIG",
-        "ROLL",
+        "ROOT",
         "SIFT",
-        "TWIST"
+        "TREE"
       ],
       [
         "BRAID",
@@ -1670,10 +1664,16 @@
         "PONY"
       ],
       [
+        "BOOK",
+        "SALAD",
+        "TABLE",
+        "TWIST"
+      ],
+      [
         "CLAP",
-        "ROOT",
-        "RUMBLE",
-        "SALAD"
+        "PEAL",
+        "ROLL",
+        "RUMBLE"
       ]
     ],
     "solution": [
@@ -1727,19 +1727,19 @@
         "COUNTRYMAN",
         "FELLOW",
         "FRIEND",
-        "TOWN"
+        "ROMAN"
       ],
       [
         "EAR",
         "MINT",
         "POCKET",
-        "UNUSED"
+        "TOWN"
       ],
       [
         "ATTENDING",
         "INTERN",
         "RESIDENT",
-        "ROMAN"
+        "UNUSED"
       ]
     ],
     "solution": [
@@ -1784,27 +1784,27 @@
   {
     "guesses": [
       [
-        "CHAMPAGNE",
-        "COCKTAIL",
-        "DINNER",
-        "REUNION"
-      ],
-      [
         "ANGERS",
         "FRONTLINE",
-        "NATURE",
+        "HYPER",
         "NOVA"
       ],
       [
+        "BIRTHDAY",
+        "CHAMPAGNE",
+        "COCKTAIL",
+        "DINNER"
+      ],
+      [
         "EXTRA",
-        "HYPER",
+        "NICE",
         "OVER",
         "SUPER"
       ],
       [
-        "BIRTHDAY",
         "MASTERPIECE",
-        "NICE",
+        "NATURE",
+        "REUNION",
         "SURPRISE"
       ]
     ],
@@ -1852,14 +1852,14 @@
       [
         "BONE",
         "CARROT",
-        "GUTS",
+        "GALL",
         "NERVE"
       ],
       [
         "BUSINESS",
-        "COAL",
         "GIRL",
-        "SNOW"
+        "GUTS",
+        "PAGES"
       ],
       [
         "BANK",
@@ -1868,8 +1868,8 @@
         "STORE"
       ],
       [
-        "GALL",
-        "PAGES",
+        "COAL",
+        "SNOW",
         "STICKS",
         "STONES"
       ]
@@ -1916,21 +1916,21 @@
   {
     "guesses": [
       [
+        "ACCEPT",
         "BELIEVE",
-        "CURT",
-        "HAIRY",
+        "BUY",
         "KNEEL"
       ],
       [
-        "ABSTRACT",
         "BRIEF",
-        "OUTLINE",
+        "CURT",
+        "HAIRY",
         "SHORT"
       ],
       [
-        "ACCEPT",
-        "BUY",
+        "ABSTRACT",
         "DIGEST",
+        "OUTLINE",
         "SWALLOW"
       ],
       [
@@ -1982,22 +1982,22 @@
   {
     "guesses": [
       [
+        "BOOKEND",
+        "SKI",
+        "SMITE",
+        "STICK"
+      ],
+      [
         "FERTILIZE",
-        "PANT",
         "POT",
-        "SMITE"
+        "PRUNE",
+        "PUNCH"
       ],
       [
         "BLOUSE",
-        "PRUNE",
-        "SKI",
-        "SOCK"
-      ],
-      [
-        "BOOKEND",
         "EARBUD",
-        "PUNCH",
-        "STICK"
+        "PANT",
+        "SOCK"
       ],
       [
         "JUICE",
@@ -2048,14 +2048,14 @@
   {
     "guesses": [
       [
-        "BIRDS",
         "BRAT",
         "DOG",
+        "DRIVER",
         "TRAIN"
       ],
       [
-        "DRIVER",
         "FOG",
+        "FRANK",
         "LINK",
         "OMEN"
       ],
@@ -2066,7 +2066,7 @@
         "STRING"
       ],
       [
-        "FRANK",
+        "BIRDS",
         "IRON",
         "WEDGE",
         "WOOD"
@@ -2114,10 +2114,10 @@
   {
     "guesses": [
       [
-        "BROADWAY",
-        "MADISON",
-        "PARK",
-        "RUSH"
+        "FLASH",
+        "HAPPY",
+        "JIFFY",
+        "WINK"
       ],
       [
         "ELEVENTH",
@@ -2126,16 +2126,16 @@
         "SECOND"
       ],
       [
-        "FLASH",
-        "HAPPY",
-        "JIFFY",
-        "WINK"
+        "BROADWAY",
+        "MADISON",
+        "MAIN",
+        "PARK"
       ],
       [
         "AMATEUR",
         "CHIEF",
-        "MAIN",
-        "PRINCIPAL"
+        "PRINCIPAL",
+        "RUSH"
       ]
     ],
     "solution": [
@@ -2183,12 +2183,12 @@
         "BLUE",
         "DATE",
         "JEOPARDY",
-        "KITTEN"
+        "SPACE"
       ],
       [
-        "HAMMER",
         "JACK",
-        "SPACE",
+        "KITTEN",
+        "STILETTO",
         "WEDGE"
       ],
       [
@@ -2198,10 +2198,10 @@
         "SWISS"
       ],
       [
+        "HAMMER",
         "HURDLE",
         "JAVELIN",
-        "POLE",
-        "STILETTO"
+        "POLE"
       ]
     ],
     "solution": [
@@ -2246,8 +2246,8 @@
   {
     "guesses": [
       [
-        "ADD",
         "COOL",
+        "COPY",
         "TANG",
         "TETRA"
       ],
@@ -2264,7 +2264,7 @@
         "WASP"
       ],
       [
-        "COPY",
+        "ADD",
         "DIVIDE",
         "MULTIPLY",
         "SUBTRACT"
@@ -2312,10 +2312,10 @@
   {
     "guesses": [
       [
-        "BIND",
         "PICKLE",
         "SCONE",
-        "SPOT"
+        "SPOT",
+        "TRIFLE"
       ],
       [
         "LOAF",
@@ -2324,10 +2324,10 @@
         "SCRAPE"
       ],
       [
+        "BIND",
         "CHILL",
         "HANG",
-        "LOUNGE",
-        "TRIFLE"
+        "LOUNGE"
       ],
       [
         "BANGER",
@@ -2378,10 +2378,10 @@
   {
     "guesses": [
       [
-        "BIRTH",
-        "DEED",
-        "HOUSE",
-        "QUALITY"
+        "BLEND",
+        "COMPOUND",
+        "QUALITY",
+        "TOKEN"
       ],
       [
         "CRUISE",
@@ -2390,15 +2390,15 @@
         "REMOTE"
       ],
       [
-        "BLEND",
-        "COMPOUND",
-        "HYBRID",
+        "BIRTH",
+        "DEED",
+        "HOUSE",
         "PLANT"
       ],
       [
         "CROSS",
+        "HYBRID",
         "STICK",
-        "TOKEN",
         "WEDGE"
       ]
     ],
@@ -2444,27 +2444,27 @@
   {
     "guesses": [
       [
+        "BUST",
+        "CHANCE",
+        "FLOP",
+        "SHOT"
+      ],
+      [
         "CARD",
         "CHARGE",
         "CREDIT",
-        "PRIME"
-      ],
-      [
-        "KINDLE",
-        "PLASTIC",
-        "RAINFOREST",
-        "RIVER"
-      ],
-      [
-        "CHANCE",
-        "MISS",
-        "SHOT",
         "TIME"
       ],
       [
-        "BUST",
         "DUD",
-        "FLOP",
+        "KINDLE",
+        "PLASTIC",
+        "PRIME"
+      ],
+      [
+        "MISS",
+        "RAINFOREST",
+        "RIVER",
         "TURN"
       ]
     ],
@@ -2510,28 +2510,28 @@
   {
     "guesses": [
       [
-        "BELLY",
-        "BUCK",
-        "HOLE",
-        "LUCK"
+        "BALL",
+        "BUTTON",
+        "LUCK",
+        "SINGLE"
       ],
       [
-        "BALL",
+        "BELLY",
         "CLAM",
-        "OYSTER",
-        "TRUMPET"
+        "HOLE",
+        "OYSTER"
       ],
       [
         "ARCH",
         "HEEL",
-        "SINGLE",
+        "MOREL",
         "SOLE"
       ],
       [
-        "BUTTON",
-        "MOREL",
+        "BUCK",
         "SMACKER",
-        "STICKER"
+        "STICKER",
+        "TRUMPET"
       ]
     ],
     "solution": [
@@ -2576,28 +2576,28 @@
   {
     "guesses": [
       [
-        "GIMMICK",
-        "HEEL",
-        "MILDEW",
-        "SOLE"
-      ],
-      [
         "DYNASTY",
         "ENGROSS",
-        "REGARD",
-        "STANDING"
+        "MILDEW",
+        "UPPER"
+      ],
+      [
+        "GIMMICK",
+        "HEEL",
+        "SOLE",
+        "TONGUE"
       ],
       [
         "FACE",
         "IMAGE",
-        "TONGUE",
-        "UPPER"
+        "REGARD",
+        "ROOM"
       ],
       [
         "CAPACITY",
         "CHAIRS",
-        "ROOM",
-        "SEATING"
+        "SEATING",
+        "STANDING"
       ]
     ],
     "solution": [
@@ -2642,26 +2642,26 @@
   {
     "guesses": [
       [
-        "CLEAR",
+        "EMPTY",
         "FEVER",
         "LUCID",
         "TICKET"
       ],
       [
-        "AMERICAN",
         "CIGARETTE",
+        "JOINT",
         "PENCIL",
         "TOE"
       ],
       [
+        "AMERICAN",
         "COLLECTIVE",
         "COMMON",
-        "JOINT",
         "MUTUAL"
       ],
       [
+        "CLEAR",
         "DRAIN",
-        "EMPTY",
         "FLUSH",
         "PIPE"
       ]
@@ -2708,15 +2708,15 @@
   {
     "guesses": [
       [
+        "GIBBON",
         "MIME",
-        "MINT",
         "MIRROR",
-        "TAMARIND"
+        "PARROT"
       ],
       [
-        "BABOON",
         "MANGO",
-        "PARROT",
+        "MINT",
+        "TAMARIND",
         "TOMATO"
       ],
       [
@@ -2727,8 +2727,8 @@
       ],
       [
         "APE",
+        "BABOON",
         "BONOBO",
-        "GIBBON",
         "GORILLA"
       ]
     ],
@@ -2774,22 +2774,22 @@
   {
     "guesses": [
       [
+        "GOATEE",
+        "HORNS",
+        "HORSEFEATHERS",
+        "SHEEPSHANK"
+      ],
+      [
         "BOWLINE",
+        "BUNK",
         "CROCK",
-        "HOGWASH",
-        "HORSEFEATHERS"
+        "HOGWASH"
       ],
       [
         "BEND",
         "HITCH",
-        "HORNS",
-        "TAIL"
-      ],
-      [
-        "BUNK",
-        "GOATEE",
         "HURDLE",
-        "SHEEPSHANK"
+        "TAIL"
       ],
       [
         "BATON",
@@ -2846,6 +2846,12 @@
         "SWORD"
       ],
       [
+        "CARP",
+        "CRAB",
+        "FLORET",
+        "SCALES"
+      ],
+      [
         "RAM",
         "RESOLUTION",
         "SPEED",
@@ -2854,13 +2860,7 @@
       [
         "BELLYACHE",
         "CLOVE",
-        "CRAB",
-        "GRUMBLE"
-      ],
-      [
-        "CARP",
-        "FLORET",
-        "SCALES",
+        "GRUMBLE",
         "STALK"
       ]
     ],
@@ -2908,26 +2908,26 @@
       [
         "BANANAS",
         "FIGURE",
-        "PILLBOX",
-        "PLUG"
+        "PLUG",
+        "VOLUNTEER"
       ],
       [
         "BERET",
-        "GATOR",
-        "SOONER",
+        "COMMANDO",
+        "ROGUE",
         "WOLVERINE"
       ],
       [
         "CAP",
         "COVER",
-        "SEAL",
-        "VOLUNTEER"
+        "PILLBOX",
+        "SEAL"
       ],
       [
-        "COMMANDO",
         "DERBY",
-        "ROGUE",
-        "SNAPBACK"
+        "GATOR",
+        "SNAPBACK",
+        "SOONER"
       ]
     ],
     "solution": [
@@ -2981,18 +2981,18 @@
         "CHEEK",
         "GALL",
         "NERVE",
+        "SPARKS"
+      ],
+      [
+        "LIBERTY",
+        "MERCURY",
+        "NICKEL",
         "SKY"
       ],
       [
         "BRASS",
         "COPPER",
-        "NICKEL",
-        "SPARKS"
-      ],
-      [
         "GOLD",
-        "LIBERTY",
-        "MERCURY",
         "SILVER"
       ]
     ],
@@ -3038,27 +3038,27 @@
   {
     "guesses": [
       [
-        "BOND",
-        "LEAF",
-        "RUSH",
-        "WING"
-      ],
-      [
         "ALWAYS",
-        "KISSES",
-        "LOVE",
+        "CAMP",
+        "PARTY",
         "SIDE"
       ],
       [
+        "BOND",
         "CHASE",
+        "LEAF",
+        "WING"
+      ],
+      [
         "HUNT",
         "QUEST",
+        "RUSH",
         "SEARCH"
       ],
       [
-        "CAMP",
+        "KISSES",
+        "LOVE",
         "MINE",
-        "PARTY",
         "YOURS"
       ]
     ],
@@ -3104,16 +3104,16 @@
   {
     "guesses": [
       [
+        "BLOW",
+        "LOSE",
+        "MISS",
+        "WASTE"
+      ],
+      [
         "DUCT",
         "EXHAUST",
         "HOSE",
         "PIPE"
-      ],
-      [
-        "BLOW",
-        "DRAB",
-        "LOSE",
-        "WASTE"
       ],
       [
         "HUB",
@@ -3123,9 +3123,9 @@
       ],
       [
         "CAMO",
+        "DRAB",
         "FATIGUE",
-        "KHAKI",
-        "MISS"
+        "KHAKI"
       ]
     ],
     "solution": [
@@ -3170,15 +3170,9 @@
   {
     "guesses": [
       [
-        "MUCK",
-        "SCREW",
-        "SNAP",
-        "TWIST"
-      ],
-      [
-        "BURN",
-        "FOUL",
         "SLICE",
+        "SNAP",
+        "TWIST",
         "WEDGE"
       ],
       [
@@ -3186,6 +3180,12 @@
         "MITE",
         "ZEST",
         "ZING"
+      ],
+      [
+        "BURN",
+        "FOUL",
+        "MUCK",
+        "SCREW"
       ],
       [
         "BIT",
@@ -3236,28 +3236,28 @@
   {
     "guesses": [
       [
-        "DIESEL",
-        "DROVE",
-        "TICKET",
-        "TOW"
-      ],
-      [
         "BELL",
-        "FRISBEE",
+        "HOST",
         "SINGER",
         "WATT"
       ],
       [
-        "BONE",
-        "BOOT",
+        "DIESEL",
+        "DROVE",
         "LOAD",
-        "STICK"
+        "TOW"
       ],
       [
         "BALL",
-        "HOST",
+        "BONE",
+        "FRISBEE",
+        "STICK"
+      ],
+      [
+        "BOOT",
         "POINTS",
-        "SCORE"
+        "SCORE",
+        "TICKET"
       ]
     ],
     "solution": [
@@ -3302,28 +3302,28 @@
   {
     "guesses": [
       [
-        "CRUNCH",
         "HOOP",
         "MOUNTAIN CLIMBER",
+        "RANGE",
         "STUD"
-      ],
-      [
-        "BOARD",
-        "BOAT",
-        "PLANK",
-        "SINK"
       ],
       [
         "COUNCIL",
         "COUNTER",
-        "DROP",
-        "RANGE"
+        "CRUNCH",
+        "DROP"
       ],
       [
         "CABINET",
         "CHANDELIER",
         "FRIDGE",
-        "PANEL"
+        "SINK"
+      ],
+      [
+        "BOARD",
+        "BOAT",
+        "PANEL",
+        "PLANK"
       ]
     ],
     "solution": [
@@ -3369,21 +3369,21 @@
     "guesses": [
       [
         "ANIMAL",
+        "BUS",
         "DOG",
-        "GONZO",
         "PIGGY"
       ],
       [
-        "BUS",
+        "BEAKER",
         "DIGIT",
-        "HOST",
-        "SERVER"
+        "GONZO",
+        "MITT"
       ],
       [
         "BARTENDER",
-        "BEAKER",
         "CHEF",
-        "MITT"
+        "HOST",
+        "SERVER"
       ],
       [
         "CAR",
@@ -3436,14 +3436,8 @@
       [
         "BABE",
         "DUMBO",
-        "PULL",
-        "SUCK"
-      ],
-      [
-        "DRAW",
         "GNOME",
-        "MNEMONIC",
-        "TED"
+        "PSYCHE"
       ],
       [
         "BOLT",
@@ -3452,10 +3446,16 @@
         "WICK"
       ],
       [
+        "DRAW",
+        "PULL",
+        "SUCK",
+        "TED"
+      ],
+      [
         "HYPER",
         "META",
-        "NEO",
-        "PSYCHE"
+        "MNEMONIC",
+        "NEO"
       ]
     ],
     "solution": [
@@ -3500,28 +3500,28 @@
   {
     "guesses": [
       [
-        "CUBA",
-        "FIJI",
+        "BREW",
         "JAPAN",
-        "MALTA"
+        "JAVA",
+        "POP"
       ],
       [
+        "CUBA",
+        "FIJI",
+        "MALTA",
+        "PALAU"
+      ],
+      [
+        "DASANI",
         "JOE",
-        "LUCKY",
         "SAM",
         "TONY"
       ],
       [
-        "BREW",
-        "DASANI",
-        "PALAU",
-        "VOSS"
-      ],
-      [
         "EVIAN",
-        "JAVA",
+        "LUCKY",
         "MUD",
-        "POP"
+        "VOSS"
       ]
     ],
     "solution": [
@@ -3566,6 +3566,12 @@
   {
     "guesses": [
       [
+        "DESIRE",
+        "DRIVE",
+        "FLY",
+        "RESOLVE"
+      ],
+      [
         "HAT",
         "SHOE",
         "SHORTS",
@@ -3573,21 +3579,15 @@
       ],
       [
         "BATTERY",
-        "DRIVE",
-        "FLY",
-        "POWER"
-      ],
-      [
-        "DESIRE",
+        "POWER",
         "RADISH",
-        "RESOLVE",
-        "SERIES"
+        "WILL"
       ],
       [
         "ARRAY",
+        "SERIES",
         "SET",
-        "TEE",
-        "WILL"
+        "TEE"
       ]
     ],
     "solution": [
@@ -3632,26 +3632,26 @@
   {
     "guesses": [
       [
-        "CAT",
-        "GOLD",
-        "SNAKE",
-        "SWORD"
-      ],
-      [
-        "CURVE",
         "DOUBLE",
+        "GOLD",
         "SPARE",
         "TURKEY"
       ],
       [
+        "CAT",
+        "CURVE",
+        "SNAKE",
+        "SWORD"
+      ],
+      [
         "BREAK",
-        "LEAVE",
         "REST",
+        "STRIKE",
         "VACATION"
       ],
       [
         "BLOW",
-        "STRIKE",
+        "LEAVE",
         "WEAVE",
         "WIND"
       ]
@@ -3704,19 +3704,19 @@
         "ROOT"
       ],
       [
+        "BENCH",
+        "BOWLER",
+        "BRIDGE",
+        "RUNNER"
+      ],
+      [
         "CHEER",
         "CHORUS",
         "CLAP",
         "REFRAIN"
       ],
       [
-        "BENCH",
-        "BOWLER",
         "COAT RACK",
-        "RUNNER"
-      ],
-      [
-        "BRIDGE",
         "HOOK",
         "PIPE",
         "WHISTLE"
@@ -3764,27 +3764,27 @@
   {
     "guesses": [
       [
-        "CHEEK",
-        "CUSHION",
-        "LIP",
-        "MOUTH"
-      ],
-      [
         "CUTIE",
-        "DAMPEN",
-        "SOFTEN",
+        "HONEYCOMB",
+        "HUMBLE",
         "WHOOPIE"
       ],
       [
         "CAMO",
         "CHECKERS",
-        "HONEYCOMB",
+        "CHESS",
         "STRIPES"
       ],
       [
         "ATTITUDE",
-        "CHESS",
-        "HUMBLE",
+        "CHEEK",
+        "LIP",
+        "MOUTH"
+      ],
+      [
+        "CUSHION",
+        "DAMPEN",
+        "SOFTEN",
         "TEMPER"
       ]
     ],
@@ -3830,26 +3830,26 @@
   {
     "guesses": [
       [
-        "FIRE",
-        "HEAT",
-        "KICK",
-        "MAGIC"
-      ],
-      [
-        "BASEBALL",
-        "CAPE",
-        "CLIPPERS",
-        "THUNDER"
-      ],
-      [
         "BOOM",
         "CRASH",
-        "ROAR",
-        "SET"
+        "KICK",
+        "ROAR"
       ],
       [
         "BRUSH",
+        "CAPE",
         "GEL",
+        "SET"
+      ],
+      [
+        "BASEBALL",
+        "CLIPPERS",
+        "HEAT",
+        "THUNDER"
+      ],
+      [
+        "FIRE",
+        "MAGIC",
         "SPICE",
         "TAROT"
       ]
@@ -3896,27 +3896,27 @@
   {
     "guesses": [
       [
-        "BRACE",
-        "BREAK",
-        "RELIEF",
-        "RIB"
+        "BOTTLE",
+        "DOG",
+        "STATUE",
+        "TURTLE"
       ],
       [
-        "DOG",
+        "BUST",
+        "LINK",
+        "POST",
+        "PROP"
+      ],
+      [
         "GOOSE",
-        "TURTLE",
+        "RIB",
+        "TORSO",
         "WING"
       ],
       [
-        "BOTTLE",
-        "BUST",
-        "STATUE",
-        "TORSO"
-      ],
-      [
-        "LINK",
-        "POST",
-        "PROP",
+        "BRACE",
+        "BREAK",
+        "RELIEF",
         "SUPPORT"
       ]
     ],
@@ -3962,16 +3962,16 @@
   {
     "guesses": [
       [
-        "DECLINE",
-        "DROP",
+        "CLOWN",
+        "DWARF",
         "DWEEB",
-        "DWINDLE"
+        "SAP"
       ],
       [
-        "SAP",
         "SEA",
         "SIN",
-        "TURKEY"
+        "TURKEY",
+        "WONDER"
       ],
       [
         "DWELL",
@@ -3980,10 +3980,10 @@
         "STAY"
       ],
       [
-        "CLOWN",
-        "DWARF",
-        "EBB",
-        "WONDER"
+        "DECLINE",
+        "DROP",
+        "DWINDLE",
+        "EBB"
       ]
     ],
     "solution": [
@@ -4028,16 +4028,16 @@
   {
     "guesses": [
       [
+        "CORN",
         "EAR",
-        "LIMB",
-        "MEMORY",
-        "WING"
+        "STAINED",
+        "TRUNK"
       ],
       [
         "BOW",
         "BRANCH",
-        "STAINED",
-        "TRUNK"
+        "LIMB",
+        "WING"
       ],
       [
         "BISCUIT",
@@ -4046,9 +4046,9 @@
         "TUSK"
       ],
       [
-        "CORN",
         "DIVISION",
         "LINCOLN",
+        "MEMORY",
         "PICK"
       ]
     ],
@@ -4160,10 +4160,10 @@
   {
     "guesses": [
       [
-        "BANK",
-        "PARK",
+        "EARTH",
+        "INCH",
         "POOL",
-        "RESERVE"
+        "SCHOOL"
       ],
       [
         "BRAKE",
@@ -4172,15 +4172,15 @@
         "TURN"
       ],
       [
+        "BOOK",
         "COACH",
-        "EARTH",
-        "SCHOOL",
+        "GUIDE",
         "TRAIN"
       ],
       [
-        "BOOK",
-        "GUIDE",
-        "INCH",
+        "BANK",
+        "PARK",
+        "RESERVE",
         "STORE"
       ]
     ],
@@ -4226,28 +4226,28 @@
   {
     "guesses": [
       [
-        "DIG",
-        "PLOW",
-        "SAND",
-        "SHOVEL"
-      ],
-      [
+        "BARB",
         "MINIATURE",
         "NO",
-        "OCTOPUS",
         "SLIGHT"
       ],
       [
-        "BARB",
         "CRACK",
         "PEPPER",
-        "SALT"
+        "SALT",
+        "SAND"
+      ],
+      [
+        "DIG",
+        "PLOW",
+        "SHOVEL",
+        "WHO"
       ],
       [
         "DOLL",
         "FIGURE",
         "MODEL",
-        "WHO"
+        "OCTOPUS"
       ]
     ],
     "solution": [
@@ -4292,28 +4292,28 @@
   {
     "guesses": [
       [
-        "CYMBAL",
-        "DRUMSTICK",
-        "SNARE",
-        "TICKER"
+        "EAGLE",
+        "PUB",
+        "TICKER",
+        "WING"
       ],
       [
-        "EAGLE",
-        "HOLE",
-        "PUB",
-        "TENDER"
+        "CYMBAL",
+        "DRUMSTICK",
+        "KICK",
+        "SNARE"
       ],
       [
         "BREAST",
+        "HOLE",
         "INFANT",
-        "KICK",
-        "TOM"
+        "TENDER"
       ],
       [
         "DRIVER",
         "STROKE",
         "SWIMMING",
-        "WING"
+        "TOM"
       ]
     ],
     "solution": [
@@ -4358,27 +4358,27 @@
   {
     "guesses": [
       [
+        "BEATLE",
         "FLEE",
-        "PECK",
-        "RED",
-        "WING"
+        "MET",
+        "STONE"
       ],
       [
         "ANGEL",
-        "BRANCH",
-        "CUB",
-        "NAT"
+        "NAT",
+        "PECK",
+        "WING"
       ],
       [
         "ARM",
         "AUNT",
-        "CHAPTER",
-        "MET"
+        "BRANCH",
+        "CHAPTER"
       ],
       [
-        "BEATLE",
         "BUSHEL",
-        "STONE",
+        "CUB",
+        "RED",
         "TON"
       ]
     ],
@@ -4430,21 +4430,21 @@
         "MOOT"
       ],
       [
+        "BUSH",
+        "FACULTY",
         "FLAIR",
-        "HAWKING",
-        "MATCH",
         "WEST"
       ],
       [
         "EINSTEIN",
-        "FACULTY",
         "FEYNMAN",
+        "HAWKING",
         "OPPENHEIMER"
       ],
       [
         "BARBIE",
-        "BUSH",
         "GIFT",
+        "MATCH",
         "SELLING"
       ]
     ],
@@ -4490,27 +4490,27 @@
   {
     "guesses": [
       [
-        "CAPRI",
-        "EGG",
-        "HONOR",
-        "HORN"
-      ],
-      [
-        "CARGO",
-        "DRUM",
-        "HOOF",
-        "STIRRUP"
-      ],
-      [
         "ANVIL",
-        "CLAW",
+        "DRUM",
         "HAMMER",
-        "NAIL"
+        "HORN"
       ],
       [
         "BOULDER",
         "CALIFORNIA",
-        "COYOTE",
+        "CAPRI",
+        "COYOTE"
+      ],
+      [
+        "CLAW",
+        "HOOF",
+        "NAIL",
+        "STIRRUP"
+      ],
+      [
+        "CARGO",
+        "EGG",
+        "HONOR",
         "TNT"
       ]
     ],
@@ -4556,22 +4556,22 @@
   {
     "guesses": [
       [
-        "DRAW",
-        "HEART",
-        "LOSE",
-        "WIN"
-      ],
-      [
         "HAM",
+        "SHOE",
         "TUNGSTEN",
-        "WATT",
-        "WEST"
+        "WATT"
       ],
       [
         "AIRPLANE",
-        "DODGE",
         "ESCAPE",
-        "SHOE"
+        "HEART",
+        "WEST"
+      ],
+      [
+        "DODGE",
+        "DRAW",
+        "LOSE",
+        "WIN"
       ],
       [
         "DO NOT DISTURB",
@@ -4622,19 +4622,19 @@
   {
     "guesses": [
       [
-        "ASSUME",
+        "ANCHOR",
+        "BALANCE",
         "CHEAT",
-        "CROOK",
         "FITTED"
       ],
       [
         "ANGLE",
-        "BALANCE",
         "BEND",
+        "CROOK",
         "PIPE"
       ],
       [
-        "ANCHOR",
+        "ASSUME",
         "BEAR",
         "COOKIE",
         "SPINACH"
@@ -4688,21 +4688,21 @@
   {
     "guesses": [
       [
-        "JOKER",
-        "SHIVA",
-        "TAXI DRIVER",
-        "VENUS DE MILO"
-      ],
-      [
         "CASINO",
         "DICE",
-        "GAMBLE",
-        "SLOT MACHINE"
+        "SLOT MACHINE",
+        "TAXI DRIVER"
+      ],
+      [
+        "HEAT",
+        "JOKER",
+        "SHIVA",
+        "VENUS DE MILO"
       ],
       [
         "BET",
         "CHANCE",
-        "HEAT",
+        "GAMBLE",
         "RISK"
       ],
       [
@@ -4754,26 +4754,26 @@
   {
     "guesses": [
       [
+        "LATHER",
+        "RINSE",
+        "SANITIZE",
+        "SWEAT"
+      ],
+      [
         "QUICK",
         "RAPID",
         "STEW",
         "TIZZY"
       ],
       [
-        "CONDITION",
-        "HEALTH",
-        "NORMAL",
-        "SWEAT"
-      ],
-      [
         "CASCADE",
-        "LATHER",
-        "RINSE",
-        "SANITIZE"
+        "CONDITION",
+        "CURRENT",
+        "NORMAL"
       ],
       [
-        "CURRENT",
         "FORM",
+        "HEALTH",
         "SHAPE",
         "WAVE"
       ]
@@ -4821,26 +4821,26 @@
     "guesses": [
       [
         "ALMOST",
-        "EASY",
-        "EXCELLENT",
-        "NOT QUITE"
-      ],
-      [
-        "AREA",
-        "ASSIGNMENT",
-        "DRILL",
-        "LESSON"
-      ],
-      [
         "CLOSE",
-        "GAME",
-        "ONE",
+        "NOT QUITE",
         "OPEN"
       ],
       [
+        "AREA",
         "ATHLETIC",
         "EXERCISE",
-        "FLEXIBLE",
+        "FLEXIBLE"
+      ],
+      [
+        "ASSIGNMENT",
+        "DRILL",
+        "GAME",
+        "LESSON"
+      ],
+      [
+        "EASY",
+        "EXCELLENT",
+        "ONE",
         "WARM"
       ]
     ],
@@ -4887,27 +4887,27 @@
     "guesses": [
       [
         "ATTEMPT",
-        "CUT",
+        "RECEPTION",
         "SCORE",
-        "TRIM"
+        "SNAG"
       ],
       [
         "BAG",
-        "COLOR",
-        "PAN",
+        "BLAST",
+        "BLOWOUT",
         "SACK"
       ],
       [
         "BASH",
-        "LAND",
-        "RECEPTION",
-        "YARD"
+        "COLOR",
+        "CUT",
+        "TRIM"
       ],
       [
-        "BLAST",
-        "BLOWOUT",
+        "LAND",
+        "PAN",
         "SLAM",
-        "SNAG"
+        "YARD"
       ]
     ],
     "solution": [
@@ -4952,27 +4952,27 @@
   {
     "guesses": [
       [
-        "COPPER",
-        "HONEY",
-        "MELT",
-        "SOMEDAY"
-      ],
-      [
+        "ALTERNATE",
         "BACKUP",
         "COVER",
-        "HERO",
         "SUIT"
+      ],
+      [
+        "COPPER",
+        "HONEY",
+        "SHRINK",
+        "SOMEDAY"
       ],
       [
         "CONDENSE",
         "FREEZE",
-        "SHRINK",
+        "MELT",
         "VAPORIZE"
       ],
       [
-        "ALTERNATE",
         "FANTASY",
         "HACK",
+        "HERO",
         "SUB"
       ]
     ],
@@ -5025,7 +5025,7 @@
       ],
       [
         "BLOWOUT",
-        "DITCH",
+        "ROMP",
         "ROUT",
         "SWEEP"
       ],
@@ -5037,8 +5037,8 @@
       ],
       [
         "CUT",
+        "DITCH",
         "MISS",
-        "ROMP",
         "SKIP"
       ]
     ],
@@ -5084,27 +5084,27 @@
   {
     "guesses": [
       [
-        "BUG",
-        "CALL",
-        "CHECK",
-        "FOLD"
+        "FIST",
+        "FOLD",
+        "NETTLE",
+        "RUFFLE"
       ],
       [
-        "DEAL",
+        "CALL",
         "PROMOTION",
         "RAISE",
         "SALE"
       ],
       [
-        "BRAKES",
-        "FIST",
-        "RUFFLE",
+        "BUG",
+        "CHECK",
+        "DEAL",
         "SPECIAL"
       ],
       [
+        "BRAKES",
         "GAS",
         "IRON",
-        "NETTLE",
         "STEAM"
       ]
     ],
@@ -5150,27 +5150,27 @@
   {
     "guesses": [
       [
-        "BAND",
-        "CHOIR",
-        "FESTIVITY",
-        "ORCHESTRA"
-      ],
-      [
         "CHEER",
+        "FESTIVITY",
         "GLEE",
-        "MIRTH",
-        "TAR"
-      ],
-      [
-        "FIRE",
-        "FRYER",
-        "LIAR",
-        "SNAKE"
+        "MIRTH"
       ],
       [
         "BARBECUE",
+        "LIAR",
+        "SNAKE",
+        "TAR"
+      ],
+      [
+        "BAND",
+        "CHOIR",
+        "FIRE",
+        "ORCHESTRA"
+      ],
+      [
         "CATERER",
         "FLORIST",
+        "FRYER",
         "OFFICIANT"
       ]
     ],
